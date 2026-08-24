@@ -14,7 +14,10 @@ C.) Evidence of reasoning - He has a clear flow of work and reasoning with image
 
 D.)  Professional tone - This portfolio does meet the standard of a professional document for an employer. He clearly explains what he is writing about in each section to make sure there is no extra interpretation needed and has a easy flow to make sure the user does not get lost.
 
+**Portfolio 2:** 
+A.) Navigability - You are able to access all projectes directly off the home page allowing for qucik and easy vewing. He has also orgainzed all of the projects into subsections so that teh user can search for specifc proijects based on the overal topic such as machine learning, data anyalisis, or AI systems
 
+B.) Reproducibility - Any user would be able to repordoce these project as he includes 
 ## Decide
 
 
