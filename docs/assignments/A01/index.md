@@ -25,7 +25,7 @@ D.) They have great professional tone throughout this portfolio. It has many bul
 
 ### Part B: Product Analysis
 A.) The mechanical product I have chosen is the normal pair of house scissors. The primary function of scissors is to convert force from your hands into two shearing blades allowing you to cut through objects you would not be able to with you hands alone.
-
+![image of scissors](image-IMG_4748.jpeg)
 B.) Governing Model - i.) The primary equation that governs scissors and what it cuts is T = F/A   where T is the shear stress in the object being cut, F is the force applied, and A is the surface area the scissors touch while cutting
 ii.) One assumption that is to be made using this governing equation is that there is no friction between the material being cut and the scissors in order to get to get the correct force and shear stress equation
 
