@@ -1,7 +1,7 @@
-# A1 – [Topic]
+# A1 – My Portfolio
 
 ## Objective
- my name is justin adelman
+The objective of this assignment is learn and get a feeling for the main three subjects in every upcoming assignments which are to analyze, decide, and to communicate as an engineering and doing this all while creating a new online portfolio.
 
 ## Analyze
 ### Task A: Portfolio analysis
@@ -24,7 +24,7 @@ C.) Evidence of reasoning - This portfolio does a great job of showing you the w
 D.) They have great professional tone throughout this portfolio. It has many bullet points that are straight to the point with an explanation for certain pieces of work or for including extra information while also including entire paragraphs at times to ensure the reasonings is fully explained. It has every piece of critical information an employer could need while also begin very well organized and professionally laid out.
 
 ### Part B: Product Analysis
-A.) The mechanical product i have chosen is the normal pair of house scissors. The primary function of scissors is to convert force from your hands into two shearing blades allowing you to cut through objects you would not be able to with you hands alone.
+A.) The mechanical product I have chosen is the normal pair of house scissors. The primary function of scissors is to convert force from your hands into two shearing blades allowing you to cut through objects you would not be able to with you hands alone.
 
 B.) Governing Model - i.) The primary equation that governs scissors and what it cuts is T = F/A   where T is the shear stress in the object being cut, F is the force applied, and A is the surface area the scissors touch while cutting
 ii.) One assumption that is to be made using this governing equation is that there is no friction between the material being cut and the scissors in order to get to get the correct force and shear stress equation
@@ -38,12 +38,13 @@ i.) One alternative solution to using scissors is a simple knife as it has one s
 ii.) The biggest descion choice the original engineer made was the location of the pivot point. If it would be any farther from the handle it would greater reduce the cutting distance and increase the length the handle and the hand would have to move while if it was any closer to the handle it would decrease the mechanical advantage making the user apply more force making the position its at a balance between mechanical advantage and hand travel needed. 
 
 ## Decide
-A.) Homepage Identity: my homepage will contain an overview of the engineering projects and assignments I have worked on to show future employer the work ethic and skills i have aqquired at college. While there will be an overview about the projects it will also be organized so that they can access anu of my individual assignments in an instant to deeper dive into that subject. i Will also include images, work, and explanations to ensure a user will be able to understand the line of work and to be in depth enough to where they would be able to reproduce the same assignment and final answer as me by being clear and in depth enough in what I am working on and what I am trying to solve.
+A.) Homepage Identity: my homepage will contain an overview of the engineering projects and assignments I have worked on to show future employer the work ethic and skills I have aqquired at college. While there will be an overview about the projects it will also be organized so that they can access anu of my individual assignments in an instant to deeper dive into that subject. I Will also include images, work, and explanations to ensure a user will be able to understand the line of work and to be in depth enough to where they would be able to reproduce the same assignment and final answer as me by being clear and in depth enough in what I am working on and what I am trying to solve.
 
 B.) One Intentional Customization: I have changed the main color theme from a bright green to a light grey. The reason for this because the bright green felt distracting from the portfolio and while it is the college color the grey is more professional looking and makes the portfolio look like a document I can give to an employer. 
 
-C.) Documentation Standard: I want this portfolio to reach a documentation standard that is very in depth in every aspect i am writing about and having a very professional tone so that i can be confident enough in this portfolio to give to a future employer and not just a friend. 
+C.) Documentation Standard: I want this portfolio to reach a documentation standard that is very in depth in every aspect I am writing about and having a very professional tone so that I can be confident enough in this portfolio to give to a future employer and not just a friend. 
 
 
 ## Communicate
 
+The communicate section is on the about me tab as stated to do so in the assignment
