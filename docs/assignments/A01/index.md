@@ -25,11 +25,15 @@ D.) They have great professional tone throughout this portfolio. It has many bul
 
 ### Part B: Product Analysis
 A.) The mechanical product I have chosen is the normal pair of house scissors. The primary function of scissors is to convert force from your hands into two shearing blades allowing you to cut through objects you would not be able to with you hands alone.
+
 ![image of scissors](image-IMG_4748.jpeg)
+
 B.) Governing Model - i.) The primary equation that governs scissors and what it cuts is T = F/A   where T is the shear stress in the object being cut, F is the force applied, and A is the surface area the scissors touch while cutting
 ii.) One assumption that is to be made using this governing equation is that there is no friction between the material being cut and the scissors in order to get to get the correct force and shear stress equation
 
 C.) The scissors are made up of two sharpened blades connected to each other with a pivot point with holes on one side for your fingers to hold and apply force. The handle has a curved shape for you fingers to fit better and is a little farther away from the pivot to create more moment around it. The blades are sharpened to reduce the amount of contact area in return creating a larger stress of the object. The cutting area is also positioned as close to the pivot in order to maximize the force being applied directly into the object. 
+
+![image of scissors](image-IMG_4747.jpeg)
 
 D.) This is the first patent for the modern day ambidextrous  scissors https://patents.google.com/patent/US3978584 patent number: US3978584A invented by John W. Mayer
 
