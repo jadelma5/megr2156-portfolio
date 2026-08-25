@@ -6,6 +6,7 @@ The objective of this assignment is learn and get a feeling for the main three s
 ## Analyze
 ### Task A: Portfolio analysis
 **Portfolio 1:**  [Ronnie Shani](https://instructure.charlotte.edu/eportfolios/4406/home/about-me) 
+
 A.) Navigability - All assignments are shown on the mage page with a side tab allowing the user to access any assignment they desire instantly from opening the portfolio page. It is also organed in chronological order making it easier on the user to find the assignment they would like to view.
 
 B.) Reproducibility - This portfolio does provide enough information to be reproduced. He provides all variables and constraints needed in the problem and Cleary states the objective at hand and what he is trying to accomplish with the variables. He even adds models he draws of the given problems allowing the user to better visualize the objective at hand and to reconstruct their own work and see if they arrive at the same final answer. 
@@ -15,6 +16,7 @@ C.) Evidence of reasoning - He has a clear flow of work and reasoning with image
 D.)  Professional tone - This portfolio does meet the standard of a professional document for an employer. He clearly explains what he is writing about in each section to make sure there is no extra interpretation needed and has a easy flow to make sure the user does not get lost.
 
 **Portfolio 2:** [Melih Gulum](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio)
+
 A.) Navigability - You are able to access all projects directly off the home page allowing for quick and easy viewing. He has also organized all of the projects into subsections so that the user can search for specific projects based on the overall topic such as machine learning, data analysis, or AI systems
 
 B.) Reproducibility - Any user would be able to reproduce these projects as he includes exactly what the objective is of the project and what he is trying to accomplish with the end goal. He also includes extra information about the subject before working on the project so that the user can start with no background knowledge at all and take all the same steps he did and come at the same final conclusion. 
@@ -26,14 +28,14 @@ D.) They have great professional tone throughout this portfolio. It has many bul
 ### Part B: Product Analysis
 A.) The mechanical product I have chosen is the normal pair of house scissors. The primary function of scissors is to convert force from your hands into two shearing blades allowing you to cut through objects you would not be able to with you hands alone.
 
-![image of scissors](image-IMG_4748.jpeg)
+![image of scissors](image-IMG_4747.jpeg)
 
 B.) Governing Model - i.) The primary equation that governs scissors and what it cuts is T = F/A   where T is the shear stress in the object being cut, F is the force applied, and A is the surface area the scissors touch while cutting
 ii.) One assumption that is to be made using this governing equation is that there is no friction between the material being cut and the scissors in order to get to get the correct force and shear stress equation
 
 C.) The scissors are made up of two sharpened blades connected to each other with a pivot point with holes on one side for your fingers to hold and apply force. The handle has a curved shape for you fingers to fit better and is a little farther away from the pivot to create more moment around it. The blades are sharpened to reduce the amount of contact area in return creating a larger stress of the object. The cutting area is also positioned as close to the pivot in order to maximize the force being applied directly into the object. 
 
-![image of scissors](image-IMG_4747.jpeg)
+![image of scissors](image-IMG_4748.jpeg)
 
 D.) This is the first patent for the modern day ambidextrous scissors [here](https://patents.google.com/patent/US3978584) patent number: US3978584A invented by John W. Mayer
 
