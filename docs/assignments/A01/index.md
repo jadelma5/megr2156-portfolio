@@ -5,7 +5,7 @@ The objective of this assignment is learn and get a feeling for the main three s
 
 ## Analyze
 ### Task A: Portfolio analysis
-**Portfolio 1:**  Ronnie Shani 
+**Portfolio 1:**  [Ronnie Shani](https://instructure.charlotte.edu/eportfolios/4406/home/about-me) 
 A.) Navigability - All assignments are shown on the mage page with a side tab allowing the user to access any assignment they desire instantly from opening the portfolio page. It is also organed in chronological order making it easier on the user to find the assignment they would like to view.
 
 B.) Reproducibility - This portfolio does provide enough information to be reproduced. He provides all variables and constraints needed in the problem and Cleary states the objective at hand and what he is trying to accomplish with the variables. He even adds models he draws of the given problems allowing the user to better visualize the objective at hand and to reconstruct their own work and see if they arrive at the same final answer. 
@@ -14,7 +14,7 @@ C.) Evidence of reasoning - He has a clear flow of work and reasoning with image
 
 D.)  Professional tone - This portfolio does meet the standard of a professional document for an employer. He clearly explains what he is writing about in each section to make sure there is no extra interpretation needed and has a easy flow to make sure the user does not get lost.
 
-**Portfolio 2:** 
+**Portfolio 2:** [Melih Gulum](https://github.com/MelihGulum/Comprehensive-Data-Science-AI-Project-Portfolio)
 A.) Navigability - You are able to access all projects directly off the home page allowing for quick and easy viewing. He has also organized all of the projects into subsections so that the user can search for specific projects based on the overall topic such as machine learning, data analysis, or AI systems
 
 B.) Reproducibility - Any user would be able to reproduce these projects as he includes exactly what the objective is of the project and what he is trying to accomplish with the end goal. He also includes extra information about the subject before working on the project so that the user can start with no background knowledge at all and take all the same steps he did and come at the same final conclusion. 
@@ -35,7 +35,7 @@ C.) The scissors are made up of two sharpened blades connected to each other wit
 
 ![image of scissors](image-IMG_4747.jpeg)
 
-D.) This is the first patent for the modern day ambidextrous  scissors https://patents.google.com/patent/US3978584 patent number: US3978584A invented by John W. Mayer
+D.) This is the first patent for the modern day ambidextrous scissors [here](https://patents.google.com/patent/US3978584) patent number: US3978584A invented by John W. Mayer
 
 i.) One alternative solution to using scissors is a simple knife as it has one single sharpened blade that is also used to cut through materials. A second alternative is a paper guillotine where the object is placed against a stationary table and a single sharpened blade is rotated around a pivot to cut through the object.
 
