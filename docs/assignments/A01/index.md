@@ -34,10 +34,11 @@ C.) The scissors are made up of two sharpened blades connected to each other wit
 D.) This is the first patent for the modern day ambidextrous  scissors https://patents.google.com/patent/US3978584 patent number: US3978584A invented by John W. Mayer
 
 i.) One alternative solution to using scissors is a simple knife as it has one single sharpened blade that is also used to cut through materials. A second alternative is a paper guillotine where the object is placed against a stationary table and a single sharpened blade is rotated around a pivot to cut through the object.
+
 ii.) The biggest descion choice the original engineer made was the location of the pivot point. If it would be any farther from the handle it would greater reduce the cutting distance and increase the length the handle and the hand would have to move while if it was any closer to the handle it would decrease the mechanical advantage making the user apply more force making the position its at a balance between mechanical advantage and hand travel needed. 
 
 ## Decide
-
+A.) Homepage Identity: 
 
 ## Communicate
 
