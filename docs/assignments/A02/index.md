@@ -44,7 +44,11 @@ Now having the cross sectional area I wanted to calculate and predict what the w
 
 The last calculations were to find the minimum cross sectional area for the pins under single shear stress. Using the equation for single shear stress of yield strength/(safety factor) = force/area I was able to isolate area alone and plug in the rest of the knowns. The yield strength was given for this hardened tool steel was 170 KSI, the safety factory was 4, and I used the same max force of 22.22KN. I was able to determine the minimum cross sectional area to be 68.2mm^2. Then using the area formula for a circle I found the diameter of the pin to be 9.32mm.
 
-![pin area]
+![pin area](pinarea.jpg)
+
+Now using the same formula for mass as before I was ready to solve for the total weight of the pins. The volume was simple as it was just the privous cross sectional area multipled by the thickness of the body which was 15.71mm. After getting the volume I multiplied it by the density of the tool steel of .278 lb/in^3 and then by the total numbers of pin to get the total mass of the pins to be .0412 Kg
+
+![pin weight]
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
