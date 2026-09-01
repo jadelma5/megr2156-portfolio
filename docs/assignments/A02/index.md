@@ -32,11 +32,13 @@ By solving step by step I was able to go joint by joint isolating each member in
 
 ### Cross Sectional Area 
 
-From my internal force calculations I determined that my max force was 22.22 KN. I then used this force to determine my minimum cross sectional area for the body of my square truss. I was able to use the stress formula shown below to find the needed cross sectional area. I did this by replacing the stress with the yield strength of 315 MPA for A500 steel and plugging in my safety factor of 3.5 in order to make sure my truss would be strong enough throughout unknown external circumstances. I then could isolate my area which was the only unkown and solve for it by plugging in my numbers getting a cross sectional area of 246.9mm^2. Since i was using a square beam I knew the width would be the same as the height so to get the width i had to square root my area to get a width of 15.71mm thick.
+From my internal force calculations I determined that my max force was 22.22 KN. I then used this force to determine my minimum cross sectional area for the body of my square truss. I was able to use the stress formula shown below to find the needed cross sectional area. I did this by replacing the stress with the yield strength of 315 MPA for A500 steel and plugging in my safety factor of 3.5 in order to make sure my truss would be strong enough throughout unknown external circumstances. I then could isolate my area which was the only unknown and solve for it by plugging in my numbers getting a cross sectional area of 246.9mm^2. Since i was using a square beam I knew the width would be the same as the height so to get the width i had to square root my area to get a width of 15.71mm thick.
 
 ![bodyarea](bodyarea.jpg)
 
+Now having the cross sectional area I wanted to calculate and predict what the weight of the truss would be. I used the mass equation where mass equal density times volume but i still didn't have the volume. However this was much simpler than i thought as since i already had the cross sectional area i knew volume is just area * length so I then added up all the lengths and multiplied it by my area to get my total volume. The density for A500 steel is around 7850 Kg/m^3 so i multiplied it by my total volume to get my theoretical weight of the truss of 6.59 Kg.
 
+![body weight](
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
