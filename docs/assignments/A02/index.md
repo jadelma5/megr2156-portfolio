@@ -18,8 +18,12 @@ Based on the given parameters this was the design I had landed on. I first made 
 ### Free Body Diagram
 
 The next thing to do was to create a free body at each joint and to find all of the internal forces in each beam. I started with using the moment for the external forces to find both the support reactions in A and B symbolically in terms of P. By using the moment I was able to Isolate just B alone and since B is a roller joint it cannot have any support in the x direction only the y so the entire moment force would be in the y direction. From that I used the normal force balances to find Ay and since there is no force in the x direction form B there would be no force in the x direction in A either. 
+
 ![work for moment](momentwork.jpg)
 
+After finding the external forces I was able to start calculating the internal forces. I did this by using the method of joints which takes just the forces at each joint in both the x and y directions separately to isolate one unknown at a time and then use the new forces and information to solve for the next one step at a time. The first joint i chose was Joint B as as i new By and there was only one other force in the y direction allowing me to isolate it and solve for it in terms of P. 
+
+![work for internal forces](
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
