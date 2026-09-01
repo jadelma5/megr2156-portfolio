@@ -40,7 +40,11 @@ Now having the cross sectional area I wanted to calculate and predict what the w
 
 ![body weight](bodyweight.jpg)
 
+### Pin Cross Sectional Area 
 
+The last calculations were to find the minimum cross sectional area for the pins under single shear stress. Using the equation for single shear stress of yield strength/(safety factor) = force/area I was able to isolate area alone and plug in the rest of the knowns. The yield strength was given for this hardened tool steel was 170 KSI, the safety factory was 4, and I used the same max force of 22.22KN. I was able to determine the minimum cross sectional area to be 68.2mm^2. Then using the area formula for a circle I found the diameter of the pin to be 9.32mm.
+
+![pin area]
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
