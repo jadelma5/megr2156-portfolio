@@ -32,11 +32,11 @@ By solving step by step I was able to go joint by joint isolating each member in
 
 ### Cross Sectional Area 
 
-From my internal force calculations I determined that my max force was 22.22 KN. I then used this force to determine my minimum cross sectional area for the body of my square truss. I was able to use the stress formula shown below to find the needed cross sectional area. I did this by replacing the stress with the yield strength of 315 MPA for A500 steel and plugging in my safety factor of 3.5 in order to make sure my truss would be strong enough throughout unknown external circumstances. I then could isolate my area which was the only unknown and solve for it by plugging in my numbers getting a cross sectional area of 246.9mm^2. Since i was using a square beam I knew the width would be the same as the height so to get the width i had to square root my area to get a width of 15.71mm thick.
+From my internal force calculations I determined that my max force was 22.22 KN. I then used this force to determine my minimum cross sectional area for the body of my square truss. I was able to use the stress formula shown below to find the needed cross sectional area. I did this by replacing the stress with the yield strength of 315 MPA for A500 steel and plugging in my safety factor of 3.5 in order to make sure my truss would be strong enough throughout unknown external circumstances. I then could isolate my area which was the only unknown and solve for it by plugging in my numbers getting a cross sectional area of 246.9mm^2. Since I was using a square beam I knew the width would be the same as the height so to get the width i had to square root my area to get a width of 15.71mm thick.
 
 ![bodyarea](bodyarea.jpg)
 
-Now having the cross sectional area I wanted to calculate and predict what the weight of the truss would be. I used the mass equation where mass equal density times volume but i still didn't have the volume. However this was much simpler than i thought as since i already had the cross sectional area i knew volume is just area * length so I then added up all the lengths and multiplied it by my area to get my total volume. The density for A500 steel is around 7850 Kg/m^3 so i multiplied it by my total volume to get my theoretical weight of the truss of 6.59 Kg.
+Now having the cross sectional area I wanted to calculate and predict what the weight of the truss would be. I used the mass equation where mass equal density times volume but I still didn't have the volume. However this was much simpler than i thought as since i already had the cross sectional area I knew volume is just area * length so I then added up all the lengths and multiplied it by my area to get my total volume. The density for A500 steel is around 7850 Kg/m^3 so I multiplied it by my total volume to get my theoretical weight of the truss of 6.59 Kg.
 
 ![body weight](bodyweight.jpg)
 
@@ -77,5 +77,9 @@ The last thing to do was to get my weight for my CAD model by changing the mater
 
 ![cad](cadweight.png)
 ![calc](cadcalc.jpg)
+
 ## Communicate
 
+### Engineering Lesson
+
+This assignment has taught me just how important time management skills are in engineering. You always need to be thinking ahead and for what's to come because if you slack off and are unfocused the work will catch up to you and eventually be too much. For this assignment I read the details and instructions and saw how much I needed to put into this. In so I split out the work over three days to try and make sure I have enough time for everything but it still caught up to me in the end as creating the webpage and portfolio for this project took a lot longer than expected making my prior time much more useful and important making sure this assignment was done on time. This applies for all of the engineering and in the real world too as there will be deadlines and dates for everything and we must make sure we are using our time management skills the best we can to ensure we can complete everything we need to. Overall This assignment took me about 9 hours and was a very good introduction to this class.
