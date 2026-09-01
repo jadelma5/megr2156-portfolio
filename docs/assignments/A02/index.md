@@ -54,11 +54,11 @@ Now using the same formula for mass as before I was ready to solve for the total
 
 I took this truss design and went and modeled it in CAD. I started out by making each member one at a time making sure they are the correct length and thickness. I ended up rounding my thickness from 15.71 to 16 to make the CAD modeling a little easier. For this Model 1 base Unit is 1mm so 1200 is 1200mm or 1.2 m. 
 
-![single](single.png)
+![single](Single.png)
 
 Then I assembled all the members together to build the entire truss.
 
-![firstfull](firstfull.png)
+![firstfull](Firstfull.png)
 
 The next thing I did was create holes with a diameter of 9.32mm at each pin location so i could then insert the pins.
 
@@ -67,12 +67,15 @@ The next thing I did was create holes with a diameter of 9.32mm at each pin loca
 
 Finally I made the actual pins with the same thickness of 16mm and a diameter of 9.32 mm and inserted them into all of the holes in the truss.
 
-![pinarea](pinarea.jpg)
 ![pinout](pinout.png)
 
 And I had my fully assembled and completed CAD model of my truss.
 
 ![final](finaltruss.png)
 
+The last thing to do was to get my weight for my CAD model by changing the material to A500 steel and running and analysis. From the CAD model I got a weight of 6.654*10^-3 tonne or 6.654 Kg. This was extremely close to my hand calculations of 6.59 Kg and I believe the difference is fully due to my rounding of the thickness from 15.71mm to 16mm so i am very pleased with that analysis.  
+
+![cad](cadweight.png)
+![calc](cadcalc.jpg)
 ## Communicate
 
