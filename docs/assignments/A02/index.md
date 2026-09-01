@@ -38,7 +38,9 @@ From my internal force calculations I determined that my max force was 22.22 KN.
 
 Now having the cross sectional area I wanted to calculate and predict what the weight of the truss would be. I used the mass equation where mass equal density times volume but i still didn't have the volume. However this was much simpler than i thought as since i already had the cross sectional area i knew volume is just area * length so I then added up all the lengths and multiplied it by my area to get my total volume. The density for A500 steel is around 7850 Kg/m^3 so i multiplied it by my total volume to get my theoretical weight of the truss of 6.59 Kg.
 
-![body weight](
+![body weight](bodyweight.jpg)
+
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
