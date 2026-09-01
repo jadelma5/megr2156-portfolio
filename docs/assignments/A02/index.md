@@ -11,9 +11,14 @@ These were the parameters given where P= 20KN, a= .4m, b= .4m, A is a pin, and B
 ## Analyze
 ### Truss Geometry
 
-Based on the given parameters this was the design I had landed on. I first made the outside structure by simply connection all point necessary and then made the internal beams. I was trying to use triangles as much as possible as I know from previous works that they are very good at distributing and handling forces. I had also originally had one more beam vertically from point C to E but quickly realized that it carried no load meaning all it was doing was adding weight so I removed it before making this my final design to work with. This design had also reminded me of many trusses i have done calculations on before so I would be familiar and confident in my internal forces. 
+Based on the given parameters this was the design I had landed on. I first made the outside structure by simply connection all point necessary and then made the internal beams. I was trying to use triangles as much as possible as I know from previous works that they are very good at distributing and handling forces. I had also originally had one more beam vertically from point C to E but quickly realized that it carried no load meaning all it was doing was adding weight so I removed it before making this my final design to work with. This design had also reminded me of many trusses i have done calculations on before so I would be familiar and confident in my internal forces. I had also figured out the length of the diagonal beams to be .5m through the Pythagorean theorem that .3^2 + .4^2 = C^2 so C = .5m
 
 ![truss design](trussdesign.jpg)
+
+### Free Body Diagram
+
+The next thing to do was to create a free body at each joint and to find all of the internal forces in each beam. I started with using the moment for the external forces to find both the support reactions in A and B symbolically in terms of P. By using the moment I was able to Isolate just B alone and since B is a roller joint it cannot have any support in the x direction only the y so the entire moment force would be in the y direction. From that I used the normal force balances to find Ay and since there is no force in the x direction form B there would be no force in the x direction in A either. 
+![work for moment](
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
