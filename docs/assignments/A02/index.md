@@ -13,7 +13,7 @@ These were the parameters given where P= 20KN, a= .4m, b= .4m, A is a pin, and B
 
 Based on the given parameters this was the design I had landed on. I first made the outside structure by simply connection all point necessary and then made the internal beams. I was trying to use triangles as much as possible as I know from previous works that they are very good at distributing and handling forces. I had also originally had one more beam vertically from point C to E but quickly realized that it carried no load meaning all it was doing was adding weight so I removed it before making this my final design to work with. This design had also reminded me of many trusses i have done calculations on before so I would be familiar and confident in my internal forces. 
 
-![truss design](
+![truss design](trussdesign.jpg)
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
