@@ -77,7 +77,7 @@ The last thing to do was to get my weight for my CAD model by changing the mater
 
 ![cad](cadweight.png)
 ![calc](cadcalc.jpg)
-![file](designhw2.prt.1)
+[Download CAD Model Here](designhw2.prt.1)
 ## Communicate
 
 ### Engineering Lesson
