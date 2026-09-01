@@ -54,5 +54,25 @@ Now using the same formula for mass as before I was ready to solve for the total
 
 I took this truss design and went and modeled it in CAD. I started out by making each member one at a time making sure they are the correct length and thickness. I ended up rounding my thickness from 15.71 to 16 to make the CAD modeling a little easier. For this Model 1 base Unit is 1mm so 1200 is 1200mm or 1.2 m. 
 
+![single](single.png)
+
+Then I assembled all the members together to build the entire truss.
+
+![firstfull](firstfull.png)
+
+The next thing I did was create holes with a diameter of 9.32mm at each pin location so i could then insert the pins.
+
+![hole](holediameter.png)
+![allholes](allholes.png)
+
+Finally I made the actual pins with the same thickness of 16mm and a diameter of 9.32 mm and inserted them into all of the holes in the truss.
+
+![pinarea](pinarea.jpg)
+![pinout](pinout.png)
+
+And I had my fully assembled and completed CAD model of my truss.
+
+![final](finaltruss.png)
+
 ## Communicate
 
