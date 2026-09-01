@@ -48,9 +48,11 @@ The last calculations were to find the minimum cross sectional area for the pins
 
 Now using the same formula for mass as before I was ready to solve for the total weight of the pins. The volume was simple as it was just the privous cross sectional area multipled by the thickness of the body which was 15.71mm. After getting the volume I multiplied it by the density of the tool steel of .278 lb/in^3 and then by the total numbers of pin to get the total mass of the pins to be .0412 Kg
 
-![pin weight]
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+![pin weight](pinweight.jpg)
+
+## CAD Modeling
+
+I took this truss design and went and modeled it in CAD. I started out by making each member one at a time making sure they are the correct length and thickness. I ended up rounding my thickness from 15.71 to 16 to make the CAD modeling a little easier. For this Model 1 base Unit is 1mm so 1200 is 1200mm or 1.2 m. 
 
 ## Communicate
 
