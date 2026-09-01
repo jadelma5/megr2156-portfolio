@@ -5,6 +5,8 @@ The objective for this assignment was to design a lightweight planar truss using
 
 These were the parameters given where P= 20KN
 
+![initial parameters](Screenshot 2026-08-31 203202.png)
+
 
 ## Analyze
 
