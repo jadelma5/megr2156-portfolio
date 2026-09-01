@@ -28,7 +28,8 @@ After finding the external forces I was able to start calculating the internal f
 
 By solving step by step I was able to go joint by joint isolating each member in order to get them in terms of P. From this is was also able to determine if a member was either in tension or compression. If my symbolic calculation for them was positive it meant that member was in Tension (T) and if the equation was negative it meant the member was in compression (C). After getting all of the symbolic equations in terms of P all I had to do was plug in the value of P = 20KN to get the exact internal forces in member.
 
-!{internal forces](
+![internal forces](internalforces.jpg)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
