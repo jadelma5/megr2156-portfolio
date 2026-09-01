@@ -23,7 +23,9 @@ The next thing to do was to create a free body at each joint and to find all of 
 
 After finding the external forces I was able to start calculating the internal forces. I did this by using the method of joints which takes just the forces at each joint in both the x and y directions separately to isolate one unknown at a time and then use the new forces and information to solve for the next one step at a time. The first joint i chose was Joint B as as i new By and there was only one other force in the y direction allowing me to isolate it and solve for it in terms of P. 
 
-![work for internal forces](
+![work for internal forces](jointworkb.jpg)
+![work for joint D](jointworkd.jpg)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
