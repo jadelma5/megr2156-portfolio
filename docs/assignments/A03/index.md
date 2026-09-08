@@ -54,6 +54,7 @@ This is the material properties for aluminum with a E of 9*10^6 PSI
 
 The FEA simulation shows the max deflection to be 9.01 *10^-3 or .00901 inches and the max stress to be 1.639 KSI or 1639 PSI. 
 
+[Link to Download CAD File](FEAdesignHW.SLDPRT)
 
 ## Communicate
 
