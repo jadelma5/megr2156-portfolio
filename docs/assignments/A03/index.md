@@ -12,7 +12,7 @@ The first step in the beam design and length calculation was to find out the cro
 
 ### Length Calculation
 
-Now that we have the cross sectional area we can find the max length beam without going over the allowed deflection. I did this by using the deflection equation where the deflction = (force*Length)/(Youngs Modulus*Area) and isolate length since all the other variables are known. Since we have the lneght isolated I plugged in all the values and found the maximum lenght of the beam to be 52.92 inches. 
+Now that we have the cross sectional area we can find the max length beam without going over the allowed deflection. I did this by using the deflection equation where the deflction = (force*Length)/(Youngs Modulus*Area) and isolate length since all the other variables are known. Since we have the length isolated I plugged in all the values and found the maximum lenght of the beam to be 52.92 inches. 
 
 ## CAD Modeling
 
@@ -22,8 +22,21 @@ I first plugged all the known values into the equations tab into solid works. Th
 
 ### FEA
 
-Now that the beam model is complete I can run a FEA simulation on it. I set one side as a fixed geometry point and the other side with the load on it. I set the load to -300 lbf so that it would be pulling on the beam and would not be into the beam. 
+Now that the beam model is complete I can run a FEA simulation on it. I set one side as a fixed geometry point and the other side with the load on it. I set the load to -300 lbf so that it would be pulling on the beam and would not be into the beam. I then ran the simulation and recored the deflectiona nd the max stresses
 
+The FEA simulation shows the max deflection to be 9.01 *10^-3 or .00901 inches and the max stress to be 1.639 KSI or 1639 PSI. 
 
 ## Communicate
+
+### Design Reflection
+
+Both my hand calculations and the FEA simulation came back with very very similar results but their was a tiny difference. The reason for this differnce was because Soidworks rounded some numbers early suhc as the area and the max deflection. In return this made the length a little longer and when i ran the simualtion the deflection was the slightest bit over .009 inches at .00901 inches making it very minimal. If the solidworks did not round at all and used the exact same area and length as my hand calculations i would trust it more but since the rounding did make the axial deflection just the tiniest bit larger than the max i trust my hand calculations more. 
+
+### Pin Hole
+
+For this I chose a substantical hole with a diameter of .3 inches. I then found that for a hole in a circular bar the stress concentraiton factor (Kt) is about 2.2. Next i found the net area of the bar minus the hole and found the ratio by diving the regular cross sectional area by the net area. I then multipled this by the max stress from the FEA of 1.639 KSI and by the Kt and found the new max stress to be 15.36 KSI. This is still under the max yeild strength of 40 KSI and still has a saftey factor of 2.6.
+
+## Lessons Learned 
+
+I learned how to run simulations in Solidworks and other CAD programs in order to find max stresses and deflections with different materials and shapes. I also think i might have made a mistake in calculation the new stress for a pin hole in the beam as the new stress is a lot larger than the original max stress. This assignment took me about 3 hours to complete. 
 
