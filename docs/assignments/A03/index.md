@@ -22,6 +22,8 @@ Now that we have the cross sectional area we can find the max length beam withou
 
 To make sure this beam was safe and wouldn't fail I calculauted the max stress on the beam from the load. The forumla for stress is just force / Area and when i plugged in the numbers i got a max stress of 1.5306 KSI which is much lower than teh max yeild strength of 40 KSI meaning this beam will not fail under this tension load. Then to calcuate the saftey factor all i had to do was divide the max yield strength by the actual stress and i got a safety factor of 26.134.
 
+![stress](Maxstress.jpg)
+
 ## CAD Modeling
 
 ### Parameteric Design
@@ -57,11 +59,13 @@ The FEA simulation shows the max deflection to be 9.01 *10^-3 or .00901 inches a
 
 ### Design Reflection
 
-Both my hand calculations and the FEA simulation came back with very very similar results but their was a tiny difference. The reason for this differnce was because Soidworks rounded some numbers early suhc as the area and the max deflection. In return this made the length a little longer and when i ran the simualtion the deflection was the slightest bit over .009 inches at .00901 inches making it very minimal. If the solidworks did not round at all and used the exact same area and length as my hand calculations i would trust it more but since the rounding did make the axial deflection just the tiniest bit larger than the max i trust my hand calculations more. 
+Both my hand calculations and the FEA simulation came back with very very similar results but their was a tiny difference. The reason for this differnce was because Soidworks rounded some numbers early suhc as the area and the max deflection. In return this made the length a little longer and when I ran the simualtion the deflection was the slightest bit over .009 inches at .00901 inches making it very minimal. If the solidworks did not round at all and used the exact same area and length as my hand calculations i would trust it more but since the rounding did make the axial deflection just the tiniest bit larger than the max I trust my hand calculations more. 
 
 ### Pin Hole
 
-For this I chose a substantical hole with a diameter of .3 inches. I then found that for a hole in a circular bar the stress concentraiton factor (Kt) is about 2.2. Next i found the net area of the bar minus the hole and found the ratio by diving the regular cross sectional area by the net area. I then multipled this by the max stress from the FEA of 1.639 KSI and by the Kt and found the new max stress to be 15.36 KSI. This is still under the max yeild strength of 40 KSI and still has a saftey factor of 2.6.
+For this I chose a substantial hole with a diameter of .3 inches. I then found that for a hole in a circular bar the stress concentration factor (Kt) is about 2.2. Next I found the net area of the bar minus the hole and found the ratio by diving the regular cross sectional area by the net area. I then multiplied this by the max stress from the FEA of 1.639 KSI and by the Kt and found the new max stress to be 15.36 KSI. This is still under the max yield strength of 40 KSI and still has a safety factor of 2.6.
+
+![pin](pincalc.jpg)
 
 ## Lessons Learned 
 
