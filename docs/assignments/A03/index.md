@@ -18,19 +18,40 @@ Now that we have the cross sectional area we can find the max length beam withou
 
 ![lengthcalc](lengthcalc.jpg)
 
+### Stress and Saftey Factor
+
+To make sure this beam was safe and wouldn't fail I calculauted the max stress on the beam from the load. The forumla for stress is just force / Area and when i plugged in the numbers i got a max stress of 1.5306 KSI which is much lower than teh max yeild strength of 40 KSI meaning this beam will not fail under this tension load. Then to calcuate the saftey factor all i had to do was divide the max yield strength by the actual stress and i got a safety factor of 26.134.
+
 ## CAD Modeling
 
 ### Parameteric Design
 
-I first plugged all the known values into the equations tab into solid works. Then using these variables in solidworks I used the same formula for length and it solved and gave me a length 53.01 inches. The reason for the difference in lenght from my hand calculation is that solidworks rounded some of my values such as the area and the mas deflection. I then designed my beama nd exturded it using the varibles as my dimensions during the process.
+I first plugged all the known values into the equations tab into solid works. Then using these variables in solidworks I used the same formula for length and it solved and gave me a length 53.01 inches. The reason for the difference in length from my hand calculation is that solidworks rounded some of my values such as the area and the mas deflection. I then designed my beam and extruded it using the variables as my dimensions during the process.
 
-!
+![Equations](Equations.png)
+
+This is the diameter of the beam
+
+![Diameter](Diameter.png)
+
+Here is the whole beam and the length of 53.01 inches
+
+![Beam](Beam.png)
 
 ### FEA
 
-Now that the beam model is complete I can run a FEA simulation on it. I set one side as a fixed geometry point and the other side with the load on it. I set the load to -300 lbf so that it would be pulling on the beam and would not be into the beam. I then ran the simulation and recored the deflectiona nd the max stresses
+Now that the beam model is complete I can run a FEA simulation on it. I set one side as a fixed geometry point and the other side with the load on it. I set the load to -300 lbf so that it would be pulling on the beam and would not be into the beam. I then ran the simulation and recorded the deflection and the max stresses.
+
+![Material](Material.png)
+
+This is the material properties for aluminum with a E of 9*10^6 PSI
+
+![stress](Stress.png)
+
+![deflection](Deflection.png)
 
 The FEA simulation shows the max deflection to be 9.01 *10^-3 or .00901 inches and the max stress to be 1.639 KSI or 1639 PSI. 
+
 
 ## Communicate
 
