@@ -4,6 +4,7 @@
 
 The objective of this assignment was to design a motor mount using a given brushed gear motor that attaches to a rigid wall. We have to decide the thickness of two features one which is attaches to to the motor and one which is attached to the wall by using the stress and deflection equations. We are using an ABS material with a safety factor of 3 and the initial force is 300 N.
 
+![instructions](instructions.png)
 ## Analyze
 
 ### Feature 1 
@@ -75,6 +76,8 @@ Lastly i added my own design to the mount that was not included in the assignmen
 Here is the whole model fully completed and ready to be used. 
 
 ![final](Fullmodel.png)
+
+[Link for Motor Mount CAD model](designhw4.prt.1)
 
 ## Communicate
 
