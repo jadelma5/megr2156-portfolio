@@ -21,7 +21,7 @@ Now that i have all my known variables i know that i have to solve for the thick
 
 With these symbolically solved equation all I need to do is plug in all of the known numbers and get the thickness. The stress equation got me a thickness of 9.06 mm and the deflection equation got a thickness of 19.35 mm. I will choose the larger thickness of 19.35 mm as we want to make sure this piece will not fail any of the intial conditions given.
 
-![number](Numerical.jpg)
+![number](Numerical1.jpg)
 
 ## Decide
 
