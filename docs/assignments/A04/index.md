@@ -12,11 +12,11 @@ The first feature I had to work on was the part that was directly attached to th
 
 ![known](Knowns1.jpg)
 
-From the free body diagram i see i am dealing with moment which is just force * distance but since the force is not being applied to the mount and to the motor itself the distance is the length of the motor shaft from the feature.
+From the free body diagram I see I am dealing with moment which is just force * distance but since the force is not being applied to the mount and to the motor itself the distance is the length of the motor shaft from the feature.
 
 ![FBD1](FBD1.jpg)
 
-Now that i have all my known variables i know that i have to solve for the thickness of the feature. I will do this by using both the bending equations for stress and deflection and isolating the h or thickness
+Now that I have all my known variables I know that I have to solve for the thickness of the feature. I will do this by using both the bending equations for stress and deflection and isolating the h or thickness
 
 ![symbolic](symbolic.jpg)
 
@@ -26,7 +26,7 @@ With these symbolically solved equation all I need to do is plug in all of the k
 
 ### Feature 2 
 
-Since we have the first feature done which directly connects to the motor we can now move to the feature that connects the rest to a wall and secures it. To make this motor mount more symmetrical and maybe easier to produce i also made the height of this section to be 40 mm as well. This feature will also be made out of ABS material and all of the knowns and unknowns are listed below. 
+Since we have the first feature done which directly connects to the motor we can now move to the feature that connects the rest to a wall and secures it. To make this motor mount more symmetrical and maybe easier to produce I also made the height of this section to be 40 mm as well. This feature will also be made out of ABS material and all of the knowns and unknowns are listed below. 
 
 ![feature](Feature2.jpg)
 
@@ -34,14 +34,14 @@ We again don't know the h or thickness of this feature and have to solve for it.
 
 ![FBD2](FBD2.jpg)
 
-From there we now use the same stress and deflection equations to solve for the thickness. Since the equations have already been symbolically solved i then plugged in the variables and got a thickness of 14.7mm from the stress equation and 26.7mm from the deflection equation and went with the larger one again to ensure the mount can handled all the stresses. 
+From there we now use the same stress and deflection equations to solve for the thickness. Since the equations have already been symbolically solved I then plugged in the variables and got a thickness of 14.7mm from the stress equation and 26.7mm from the deflection equation and went with the larger one again to ensure the mount can handled all the stresses. 
 
 ![sym](Sym2.jpg)
 ![number](numsym.jpg)
 
 ### Isometric Sketch
 
-Having all the values for the whole design a made a hand drawn sketch of the features. This includes all of the holes need to both attach the motor to the mount and the holes needed to attach the mount to the rigid wall. This rough sketch also helps me to see the the whole design allowing me better understand what i need to do for my CAD model. 
+Having all the values for the whole design a made a hand drawn sketch of the features. This includes all of the holes need to both attach the motor to the mount and the holes needed to attach the mount to the rigid wall. This rough sketch also helps me to see the the whole design allowing me better understand what I need to do for my CAD model. 
 
 ## CAD Model
 
@@ -56,20 +56,20 @@ I then went to sketch out the side view of the mount and also extruded this sket
 ![sketch](CADsketch.png)
 ![extrude](Extrude1.png)
 
-After having my whole basic motor mount i then put in a recess to that the motor would sit flat on the motor and be secure.
+After having my whole basic motor mount I then put in a recess to that the motor would sit flat on the motor and be secure.
 
 ![recess](Holebig.png)
 ![hole](Hole1.png)
 
-Now that i have this recess i put holes all the way throughout the mount to that the shaft can go through and so we can screw the motor into the mount itself and be secure.
+Now that I have this recess I put holes all the way throughout the mount to that the shaft can go through and so we can screw the motor into the mount itself and be secure.
 
 ![motor](motorfit.png)
 
-The final holes i added on were the holes in feature two that allows the mount to be connected to the rigid wall.
+The final holes I added on were the holes in feature two that allows the mount to be connected to the rigid wall.
 
 ![wall](Wallhole.png)
 
-Lastly i added my own design to the mount that was not included in the assignment. I added an extra diagonal piece that farther connects feature one to feature 2. This diagonal piece further helps to distribute the load and minimizes the deflection for the whole design.
+Lastly I added my own design to the mount that was not included in the assignment. I added an extra diagonal piece that farther connects feature one to feature 2. This diagonal piece further helps to distribute the load and minimizes the deflection for the whole design.
 
 ![extra](extradesign.png)
 
