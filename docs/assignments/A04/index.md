@@ -49,7 +49,7 @@ Having all the values for the whole design a made a hand drawn sketch of the fea
 
 To start my CAD model I first plugged in all of my variables and used the equation solver to compute my thickness values and double check them. After confirming all my values are accurate I then used the values in my model to ensure it is all correct size so the motor would properly fit and all conditions are met. 
 
-1[equations](parametric.png)
+![equations](parametric.png)
 
 I then went to sketch out the side view of the mount and also extruded this sketch to the correct width of 40mm.
 
