@@ -27,13 +27,16 @@ With these symbolically solved equation all I need to do is plug in all of the k
 
 Since we have the first feature done which directly connects to the motor we can now move to the feature that connects the rest to a wall and secures it. To make this motor mount more symmetrical and maybe easier to produce i also made the height of this section to be 40 mm as well. This feature will also be made out of ABS material and all of the knowns and unknowns are listed below. 
 
-
+![feature](Feature2.jpg)
 
 We again don't know the h or thickness of this feature and have to solve for it. The first step in doing so is to create a free body diagram. This diagram shows how only the upper portion of the feature is connected to a rigid wall meaning the bottom is allowed to move. We then use that length from where it is allowed to move combined with the previous thickness and motor shaft length to get our distance for the moment. This moment is now larger than the original as the distance is greater. 
 
-
+![FBD2](FBD2.jpg)
 
 From there we now use the same stress and deflection equations to solve for the thickness. Since the equations have already been symbolically solved i then plugged in the variables and got a thickness of 14.7mm from the stress equation and 26.7mm from the deflection equation and went with the larger one again to ensure the mount can handled all the stresses. 
+
+![sym](Sym2.jpg)
+![number](numsym.jpg)
 
 ## Decide
 
