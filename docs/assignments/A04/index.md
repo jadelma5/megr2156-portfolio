@@ -1,4 +1,4 @@
-# A4 – [Topic]
+# A4 – Motor Mount
 
 ## Objective
 
@@ -48,11 +48,34 @@ Having all the values for the whole design a made a hand drawn sketch of the fea
 
 To start my CAD model I first plugged in all of my variables and used the equation solver to compute my thickness values and double check them. After confirming all my values are accurate I then used the values in my model to ensure it is all correct size so the motor would properly fit and all conditions are met. 
 
+1[equations](parametric.png)
 
+I then went to sketch out the side view of the mount and also extruded this sketch to the correct width of 40mm.
 
-I then went to sketch out the side view of the mount and also extruded this sketch to the correct width of 40mm 
-## Decide
+![sketch](CADsketch.png)
+![extrude](Extrude1.png)
 
+After having my whole basic motor mount i then put in a recess to that the motor would sit flat on the motor and be secure.
+
+![recess](Holebig.png)
+![hole](Hole1.png)
+
+Now that i have this recess i put holes all the way throughout the mount to that the shaft can go through and so we can screw the motor into the mount itself and be secure.
+
+![motor](motorfit.png)
+
+The final holes i added on were the holes in feature two that allows the mount to be connected to the rigid wall.
+
+![wall](Wallhole.png)
+
+Lastly i added my own design to the mount that was not included in the assignment. I added an extra diagonal piece that farther connects feature one to feature 2. This diagonal piece further helps to distribute the load and minimizes the deflection for the whole design.
+
+![extra](extradesign.png)
+
+Here is the whole model fully completed and ready to be used. 
+
+![final](Fullmodel.png)
 
 ## Communicate
 
+This assignment took me about 4 hours to complete. Most of the the time was used towards the calculations and the hand sketch's as I am coming more familiar with the parametric CAD modeling. I also started this assignment earlier in the week to not be rushed and have plenty of time to complete. 
