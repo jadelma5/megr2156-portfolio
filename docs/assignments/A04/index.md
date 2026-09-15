@@ -38,6 +38,19 @@ From there we now use the same stress and deflection equations to solve for the 
 ![sym](Sym2.jpg)
 ![number](numsym.jpg)
 
+### Isometric Sketch
+
+Having all the values for the whole design a made a hand drawn sketch of the features. This includes all of the holes need to both attach the motor to the mount and the holes needed to attach the mount to the rigid wall. This rough sketch also helps me to see the the whole design allowing me better understand what i need to do for my CAD model. 
+
+## CAD Model
+
+### Paramteric Modeling
+
+To start my CAD model I first plugged in all of my variables and used the equation solver to compute my thickness values and double check them. After confirming all my values are accurate I then used the values in my model to ensure it is all correct size so the motor would properly fit and all conditions are met. 
+
+
+
+I then went to sketch out the side view of the mount and also extruded this sketch to the correct width of 40mm 
 ## Decide
 
 
