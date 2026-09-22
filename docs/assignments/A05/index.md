@@ -31,6 +31,29 @@ The width for feature D is .533 inches. The last feature to solve for is feature
 
 ## Calculating Dimensions from Stiffness Analysis
 
+For this next bracket design I will be using the bending and stiffness of the material to find all aspects with a max deflection of .005 inches.
+
+I will do the same as before where I start out drawing the free body diagrams and the writing out all of my knowns. All of the unknowns and the assumptions are the same as the stress analysis  the only difference is we will no be using the stiffness of the aluminum with a E of 10*10^6 PSI.
+
+![A](Astiff.jpg)
+
+![B](Bstiff.jpg)
+
+![C](Cstiff.jpg)
+
+![D](Dstiff.jpg)
+
+![E](Estiff.jpg)
+
+From these calculations I got both larger and smaller numbers than the stress analysis for different features. For instance my diameter for the stiffness calculation is much smaller than my diameter for my stress calculation but my height for feature C from my stiffness calculations is double that of the one from my stress calculations.  
+
+### Multiview Sketches
+
+The last thing to to was to so draw multiveiw sketches of full design from botht he stress calculations and the stiffness calcuations
+
+![Stress](Stressdraw.jpg)
+
+![stiff](Stiffdraw.jpg)
 
 ## Decide
 
