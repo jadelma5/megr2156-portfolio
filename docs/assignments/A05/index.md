@@ -49,14 +49,20 @@ From these calculations I got both larger and smaller numbers than the stress an
 
 ### Multiview Sketches
 
-The last thing to to was to so draw multiveiw sketches of full design from botht he stress calculations and the stiffness calcuations
+The last thing to do was to draw multiveiw sketches of full design from botht he stress calculations and the stiffness calcuations.
 
 ![Stress](Stressdraw.jpg)
 
 ![stiff](Stiffdraw.jpg)
 
-## Decide
+## Lessons Learned 
 
+Overall it was a mix between my stress and my stiffness calculations for which governed the final dimension. For example my stress calculations governs my diameter feature with a diameter of 1.72 inches while my stiffness calculation only had a needed diameter of .67 inches. But for my feature C my stiffness calculation governs the final dimension with a height of .43 inches while my stress calculations had a height of only .27 
 
-## Communicate
+One instance in my design where a value came from a previous feature was my feature B. For feature B I made the width equal to the diameter from feature A to make the design more unform. Even with carrying values from one feature to the next no errors had occurred as I made sure all values made sense and were not crazy out of proportion. 
+
+The main assumption I did that would change all of my calculations is the material I used. I decide to go with Aluminum 6061 but if i instead would have chosen a material like titanium my stiffness and yield strength would both be much higher making all of my calculations smaller than what they are for the aluminum material.
+
+Overall this assignment took me around 7 hours to complete to get all of my hand calculations done and to create the portfolio.
+
 
