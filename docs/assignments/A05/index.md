@@ -29,7 +29,9 @@ The width for feature D is .533 inches. The last feature to solve for is feature
 
 ![E](Estress.jpg)
 
-## 
+## Calculating Dimensions from Stiffness Analysis
+
+
 ## Decide
 
 
