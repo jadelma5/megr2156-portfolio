@@ -49,5 +49,5 @@ B.) One dimension I applied a tighter tolerance gap to was my wing thickness on 
 Overall this assignment took me about 4 hours as I am getting better with modeling parametrically 
 
 
-## Communicate
+
 
