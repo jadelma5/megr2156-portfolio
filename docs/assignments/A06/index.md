@@ -10,12 +10,23 @@ The objective for this assignment was to generate a comprehensive solid model an
 
 The first thing to was to decide to use either my siffness of strength values form the previous assignment. I decided to go with my strength values as most of them were larger then my sitffness meaning they would meet both requirements under the load. After choosing which design i will be modeloign i started ot enter all of the parameter into my equation editior. After plugging in all equations and numbers into CAD I am now able to model the enitre designin paramtetrically
 
+![eq](equation1.png)
+![eq2](equation2.png)
 
 I first started by modeling the T Block shape into my main body using all of my parametric values and extruded it to 1 inch.
 
+![block](blocksketch.png)
+![block2](blockextrude.png)
+
 From there I connected the bottom piece to the underside of the main body using the thickness from my equations
 
-Finally i connected the cylinder feature that allows the strap to hook onto the design and my model was finished
+![bottom](bottomsketch.png)
+![bottom2](bottomextrude.png)
+
+Finally I connected the cylinder feature that allows the strap to hook onto the design and my model was finished
+
+![circle](circlesketch.png)
+![final](final.png)
 
 ## CAD Drawing
 
