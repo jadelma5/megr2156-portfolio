@@ -8,7 +8,7 @@ The objective for this assignment was to generate a comprehensive solid model an
 
 ### Parametric Model
 
-The first thing to was to decide to use either my siffness of strength values form the previous assignment. I decided to go with my strength values as most of them were larger then my sitffness meaning they would meet both requirements under the load. After choosing which design i will be modeloign i started ot enter all of the parameter into my equation editior. After plugging in all equations and numbers into CAD I am now able to model the enitre designin paramtetrically.
+The first thing to was to decide to use either my siffness of strength values form the previous assignment. I decided to go with my strength values as most of them were larger then my sitffness meaning they would meet both requirements under the load. After choosing which design i will be modeloign I started ot enter all of the parameter into my equation editior. After plugging in all equations and numbers into CAD I am now able to model the enitre designin paramtetrically.
 
 ![eq](equation1.png)
 ![eq2](equation2.png)
@@ -35,16 +35,18 @@ Now having the finished my model I can then move onto the drawing. I used third 
 ![draw](draw.png)
 
 [Part Download](hw6bracket.prt.2)
+
 [Drawing Download](bracketdrawing.drw.2)
+
 [Drawing PDF Download](Hw6drawpdf.pdf)
 
 ## Reflections
 
-A.) I used my strength analytical equation to get my radius for the feature that the Uline strap will attach too. The main reason I choose this was because it was larger than my stiffness value so i choose the larger value to ensure it could withstand both strength and stiffness when needed. I first started by entering all of my knowns into equation editor and solve for the Z for a cylinder feature for strength. Once I had my Z i should do ((4*Z)/(pi))^1/3 to get my radius of .4 or a diameter of .8. This is different from my original calculation in the last assignment as it seems i had made an error when plugging in my yield strength and got a diameter of 1.72 instead of .8 but it did not lead to another further errors.  
+A.) I used my strength analytical equation to get my radius for the feature that the Uline strap will attach too. The main reason I choose this was because it was larger than my stiffness value so I choose the larger value to ensure it could withstand both strength and stiffness when needed. I first started by entering all of my knowns into equation editor and solve for the Z for a cylinder feature for strength. Once I had my Z I should do ((4*Z)/(pi))^1/3 to get my radius of .4 or a diameter of .8. This is different from my original calculation in the last assignment as it seems i had made an error when plugging in my yield strength and got a diameter of 1.72 instead of .8 but it did not lead to another further errors.  
 
-B.) One dimension i applied a tighter tolerance gap to was my wing thickness on the top of the bracket. I had to apply this tighter tolerance because the T beam itself was already at a tight tolerance and I had to make sure that the T beam would be able to fit into the desired slot so i made sure that the Width was never smaller than the width of the T block to ensure the bracket would fit onto the block and would work properly. A tolerance i allowed to be lower is the outside thickness of the piece since it is not directly interacting with anything and already has a safety factor of 4 meaning it will withstand its load and work properly inside the whole tolerance range     
+B.) One dimension I applied a tighter tolerance gap to was my wing thickness on the top of the bracket. I had to apply this tighter tolerance because the T beam itself was already at a tight tolerance and I had to make sure that the T beam would be able to fit into the desired slot so I made sure that the Width was never smaller than the width of the T block to ensure the bracket would fit onto the block and would work properly. A tolerance I allowed to be lower is the outside thickness of the piece since it is not directly interacting with anything and already has a safety factor of 4 meaning it will withstand its load and work properly inside the whole tolerance range     
  
-Overall this assignment took me about 4 hours as i am getting better with modeling parametrically 
+Overall this assignment took me about 4 hours as I am getting better with modeling parametrically 
 
 
 ## Communicate
