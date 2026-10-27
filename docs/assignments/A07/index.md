@@ -69,6 +69,8 @@ I then changed the mesh size to be finer and rerun the simulations
 
 It had a max stress of 9539 psi, a max deflection of .001091 inches, and a minimum safety factor of 4.168. This gives a convergence of 25 percent for the stress, 9 percent for the deflection, and 25 percent for the safety factor. These are better than the previous and the overall design is much better optimized but the convergence is still not in the allowed 7%.
 
+[Link to download final design](FEA_HW7.SLDPRT)
+
 ## Reflections
 
 This assignment showed me really how you can optimize the design based on the FEAs. For example i saw where my stresses were really high in the FEA and added material or altered the geometry to make it more distributed and where there was material with almost 0 load on it in the FEA i saw to remove that material as it was not needed allowing me to better optimize my design quicker. This assignment took me about 3 hours from start to finish. 
