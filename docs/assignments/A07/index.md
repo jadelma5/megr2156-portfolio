@@ -74,5 +74,3 @@ It had a max stress of 9539 psi, a max deflection of .001091 inches, and a minim
 This assignment showed me really how you can optimize the design based on the FEAs. For example i saw where my stresses were really high in the FEA and added material or altered the geometry to make it more distributed and where there was material with almost 0 load on it in the FEA i saw to remove that material as it was not needed allowing me to better optimize my design quicker. This assignment took me about 3 hours from start to finish. 
 
 
-## Communicate
-
