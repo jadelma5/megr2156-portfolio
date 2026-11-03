@@ -31,11 +31,10 @@ Then I did a final sketch of my gear box housing with the gears inside them.
 ![sketch](gearsketch.jpg)
 
 
-
-
 ## CAD Modeling
 
 Next is started to work on the CAD modeling for this gearbox. I started with importing my gears and then making my journal bearings and shafts. Last i made my gearbox housing and now that i had all my parts I assembled them all together. 
+
 
 
 ## Communicate
