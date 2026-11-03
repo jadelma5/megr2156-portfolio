@@ -8,7 +8,7 @@ The objective of this assignment was to design a gearbox which can be assembled 
 
 the first thing i was to do was to calculate the stresses on the shafts and make sure their diameter and size is sufficient enough. I am making the shafts based of this these gears.  
 
-![gear](bigg.gif)
+![big](bigg.gif)
 
 ![small](smallg.gif)
 
