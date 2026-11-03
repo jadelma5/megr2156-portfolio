@@ -8,9 +8,9 @@ The objective of this assignment was to design a gearbox which can be assembled 
 
 the first thing i was to do was to calculate the stresses on the shafts and make sure their diameter and size is sufficient enough. I am making the shafts based of this these gears.  
 
-![big](bigg.gif)
-
 ![small](smallg.gif)
+
+![big](bigg.gif)
 
 based of of these gars i then made a free body diagram and calculated the stresses for both the input and output shafts 
 
@@ -34,6 +34,13 @@ Then I did a final sketch of my gear box housing with the gears inside them.
 ## CAD Modeling
 
 Next is started to work on the CAD modeling for this gearbox. I started with importing my gears and then making my journal bearings and shafts. Last i made my gearbox housing and now that i had all my parts I assembled them all together. 
+
+![g1](gear1.png)
+![g2](gear2.png)
+![s1](shaft1.png)
+![s2](shaft2.png)
+
+![a](assembly.png)
 
 
 
