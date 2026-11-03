@@ -42,7 +42,8 @@ Next is started to work on the CAD modeling for this gearbox. I started with imp
 
 ![a](assembly.png)
 
-
+[Shaft 1 download](.125_shaft.SLDPRT)
+[Shaft 2 download](.25_shaft.SLDPRT)
 
 ## Communicate
 
