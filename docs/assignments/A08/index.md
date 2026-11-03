@@ -18,21 +18,17 @@ based of of these gars i then made a free body diagram and calculated the stress
 
 ![out](outputwork.jpg)
 
-
-
-
-
-
-
-
 I have found that both of the shafts are sufficient so my next step was to find which journal bearings are best fir for this gearbox. looking through the website i found that the bronze oiled coated bearings were bet suited for my stresses and outputs and i just had to find the thicknesses of each. 
 
+![b](bearingwork.jpg)
 
+![b2](b2work.jpg)
 
+![bs](bsize.jpg)
 
 Then I did a final sketch of my gear box housing with the gears inside them.
 
-
+![sketch](gearsketch.jpg)
 
 
 
