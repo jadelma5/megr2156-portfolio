@@ -10,7 +10,7 @@ the first thing i was to do was to calculate the stresses on the shafts and make
 
 ![small](smallg.gif)
 
-![big](bigg.gif)
+![big](biggear.gif)
 
 based of of these gars i then made a free body diagram and calculated the stresses for both the input and output shafts 
 
@@ -43,7 +43,16 @@ Next is started to work on the CAD modeling for this gearbox. I started with imp
 ![a](assembly.png)
 
 [Shaft 1 download](.125_shaft.SLDPRT)
+
 [Shaft 2 download](.25_shaft.SLDPRT)
 
-## Communicate
+[Gear 1 download](Gear1.SLDPRT)
+
+[Gear 2 download](Gear2.SLDPRT)
+
+[Assembly download](Assem1.SLDASM) 
+
+## Reflections
+
+Overall this assignment got me to be better with solid works overall and allowed me to gain more experience   and learn more about how to assemble different parts together inside of solid works. This assembly also showed me that by looking at all the part together at once i was able to make quick changed to other parts to make sure they fit and align together. Overall this assignment took me about 6 hours to complete 
 
