@@ -29,7 +29,7 @@ The next thing to solve for was the rage of rotational speed based off of the ne
 
 ![Leadscrew](leadscrew-54.jpg)
 
-The last thing i need before I select the lead screw is to calculate the max torque to provide the 2KN tension to test the sample. I listed out all of my knowns and unknowns and saw I already have everything i need and just need to solve for the torque with the equation given to us shown below. 
+The last thing i need before I select the lead screw is to calculate the max torque to provide the 2KN tension to test the sample. I listed out all of my knowns and unknowns and saw I already have everything i need and just need to solve for the torque with the equation given to us shown below.  
  
 ![Leadscrew](leadscrew-55.jpg) 
 
@@ -37,8 +37,19 @@ After plugging in my number i got the max torque to be .6786 N-m per screw as th
 
 [Lead Screw Link](https://www.mcmaster.com/99030A981/)
 
+### Nut and Flange Selection 
+
+Now that I had selected the lead screw I had to select the complimentary nut and flange for this design. I also had to make sure that the internal threads of the nut could support the load of the screw by using the thread bending stress  analysis. I know that the nut should bronze and it has to match the pitch of the lead screw so it also must be 1/16 as well. I am assuming the length of the nut to be 5/8 inch since that is the most common size. Based off the length and pitch i was able to calculate how many thread are touching/ are active during the load which is 10. from there i can plug the numbers into the stress bending equation shown below.       
 
 ![Leadscrew](leadscrew-56.jpg)  
+
+I got max stress to me 101.05 MPA which is plenty below the yield strength of 673 bronze of 203 MPA. Also the calculated  101.05 used the safety factor of 4 so it well within all parameters. From this i selected a nut for this length material and internal pitch to match the screw which is linked here. 
+
+[Link for Selected Nut](https://www.mcmaster.com/95072A881/)
+
+This but had an external thread of 9/16 - 18 so all i had to do was to select a flange that would match this pitch and allow the nut to thread in and connect which is linked here.
+
+[Link for Selected Flange](https://www.mcmaster.com/95082A641/)
 
 ### Designing the Crosshead (Justin Hatcher)  
 ![Crosshead](crosshead4.jpg)  
