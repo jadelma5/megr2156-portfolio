@@ -33,7 +33,7 @@ The next thing to solve for was the rage of rotational speed based off of the ne
 ![Leadscrew](leadscrew-56.jpg)  
 
 ### Designing the Crosshead (Justin Hatcher)  
-![Crosshead](crosshead4.jpg) 
+![Crosshead](crosshead4.jpg)  
 Calculations and assumptions for designing our crosshead suitable for leadscrews and frame of our machine.  
 
 ![Crosshead](crosshead1.jpg)  
