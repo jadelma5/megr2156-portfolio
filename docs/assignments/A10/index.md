@@ -99,8 +99,11 @@ Jackson Rice: In this project I learned a lot. The thing that I found most usefu
 
 Justin H. : During the course of the project I learned how valuable it was to make a checklist of the variable and parameters we were given for this project and what actually fits together. Taking extra time to look at parts to find a good part is better than being fast and throwing something together knowing it probably won't work because of a time constraint.  
 
+Justin Adelman: This project taught me a lot about the correct way to actually select items after having all the requirements. For example I had to go back and change my initial lead screw selection multiple times as there were no bronze nuts that could match the pitch for anything smaller than 1/16. This taught me to always think ahead and make sure all items are compatible and can work with each other.   
+
 Time Taken: 5 hours(Jackson)
             5 hours(Justin H.)
+            5 hours(Justin A)
 
 ### CAD Links:  
 <a href="A10 (2).zip" download>Download A10 Solidworks Parts and Assmebly</a>  
