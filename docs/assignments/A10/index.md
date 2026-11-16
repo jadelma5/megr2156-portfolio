@@ -78,10 +78,14 @@ Now was time for the full assembly. This was just the crosshead assembly and the
 ![Assembly](assembly10.jpg)  
 ![Assembly](assembly11.jpg)  
 ![Assembly](assembly12.jpg)  
-![Frame](2ftframe.jpg)  
-![Frame](3ftframe.jpg)  
 
-### Tabulation:  (Justin Hatcher)  
+### Frame Selection (Jackson Rice)  
+![Frame](2ftframe.jpg)  
+2ft frame  
+![Frame](3ftframe.jpg)  
+3ft frame  
+
+### Tabulation  (Justin Hatcher)  
 ![table](Tabulation.png)
 
 <a href="https://docs.google.com/spreadsheets/d/1-IyFBrPSqRsUC8X71TDrjAil2_3B7H-Nr4CGZBN8Lyw/edit?usp=sharing" target="Tabulation Link">A10 Tabulation Link</a> 
