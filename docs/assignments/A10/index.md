@@ -48,7 +48,7 @@ Calculations and assumptions for designing our crosshead suitable for leadscrews
 ![Assembly](assembly5.jpg)  
 ![Assembly](assembly6.jpg)  
 ![Assembly](assembly7.jpg)  
-![Assembly](assembly8.jpg)  
+![Assembly](assmebly8.jpg)  
 ![Assembly](assembly9.jpg)  
 ![Assembly](assembly10.jpg)  
 ![Assembly](assembly11.jpg)  
