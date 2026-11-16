@@ -106,4 +106,4 @@ Time Taken: 5 hours(Jackson)
             5 hours(Justin A)
 
 ### CAD Links:  
-<a href="A10_zip.zip" download>Download A10 Solidworks Parts and Assmebly</a>  
+[CAD zip file](A10_zip.zip)
