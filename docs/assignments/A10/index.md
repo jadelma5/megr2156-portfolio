@@ -1,7 +1,7 @@
 # A10 – Lead Screw Translating System
 
 ## Objective  
-A brief introduction to the purpose behind our Lead Screw:  
+A brief introduction to the purpose behind our Lead Screw:  (Justin Hatcher)
 The machine we are designing this lead screw for is a tensile tester. It is a mechanical testing device used to measure how material responds to uniaxial tension. It applies a controlled pulling force to a specimen while recording the resulting elongation, allowing engineering to determine properties such as **yield strength, ultimate tensile strength, and elongation at break.** This data is essential for understanding a material's mechanical behavior and suitability for design applications.  
 The object our assignment is to design and build a mechanically driven tensile tester capable of applying up to **2kN axial tensile load** with a controllable crosshead speed from **1 - 50mm/min**. Our team is responsible for the mechanical components outlined below. The system will provide consistent, well-aligned loading for polymers and light metals, suitable for instructional use and basic material evaluation.  
 - Develop a **lead-screw driven crosshead**  
@@ -32,7 +32,29 @@ The next thing to solve for was the rage of rotational speed based off of the ne
 ![Leadscrew](leadscrew-55.jpg)  
 ![Leadscrew](leadscrew-56.jpg)  
 
-## Tabulation:  
+### Designing the Crosshead (Justin Hatcher)  
+![Crosshead](crosshead4.jpg) 
+Calculations and assumptions for designing our crosshead suitable for leadscrews and frame of our machine.  
+
+![Crosshead](crosshead1.jpg)  
+![Crosshead](crosshead2.jpg)  
+![Crosshead](crosshead3.jpg)   
+
+### Assembly: (Jackson Rice)  
+![Assembly](assembly1.jpg)  
+![Assembly](assembly2.jpg)  
+![Assembly](assembly3.jpg)  
+![Assembly](assembly4.jpg)  
+![Assembly](assembly5.jpg)  
+![Assembly](assembly6.jpg)  
+![Assembly](assembly7.jpg)  
+![Assembly](assembly8.jpg)  
+![Assembly](assembly9.jpg)  
+![Assembly](assembly10.jpg)  
+![Assembly](assembly11.jpg)  
+![Assembly](assembly12.jpg)  
+
+### Tabulation:  (Justin Hatcher)  
 <a href="https://docs.google.com/spreadsheets/d/1-IyFBrPSqRsUC8X71TDrjAil2_3B7H-Nr4CGZBN8Lyw/edit?usp=sharing" target="Tabulation Link">A10 Tabulation Link</a> 
 
 ## Decide
