@@ -49,6 +49,7 @@ After extruding the parameters of the cross section of the cross head, I was abl
 Inserting the circular pattern for the bolt holes on the flange according to the base of the flange. 
 ![Crosshead](crosshead3.jpg)   
 Final view from above of the crosshead to see that bolt inserts for flange are visible and leadscrew hole goes all the way through the part.  
+![Crosshead](parametric.jpg)  
 
 ### Assembly: (Jackson Rice)  
 ![Assembly](assmebly1.jpg)  
@@ -63,6 +64,8 @@ Final view from above of the crosshead to see that bolt inserts for flange are v
 ![Assembly](assembly10.jpg)  
 ![Assembly](assembly11.jpg)  
 ![Assembly](assembly12.jpg)  
+![Frame](2ftframe.jpg)  
+![Frame](3ftframe.jpg)  
 
 ### Tabulation:  (Justin Hatcher)  
 ![table](Tabulation.png)
@@ -73,4 +76,4 @@ Final view from above of the crosshead to see that bolt inserts for flange are v
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
 ## Communicate
-### Links:  
+### CAD Links:  
