@@ -15,6 +15,10 @@ Constrains:
 - Safety Factor: 4  
 
 ## Analyze  
+![Leadscrew](leadscrew-53.jpg)  
+![Leadscrew](leadscrew-54.jpg)  
+![Leadscrew](leadscrew-55.jpg)  
+![Leadscrew](leadscrew-56.jpg)  
 
 
 ## Decide
