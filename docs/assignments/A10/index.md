@@ -24,9 +24,11 @@ The first part of this assignment was to select the correct lead screw by solvin
 
 After solving and plugging the numbers in I got a minimum diameter of 4.51 mm or about .1776 so any 1/4(.250) inch lead screw would be sufficient for this design.  
 
-The next thing to solve for was the rage of rotational speed based off of the needed corehaead speed and the picth og the lead screw.
-![Leadscrew](leadscrew-53.jpg)  
-![Leadscrew](leadscrew-54.jpg)  
+The next thing to solve for was the rage of rotational speed based off of the needed crosshead speed and the pitch of the lead screw. From my min diameter calcualtion i assumed a pitch of 1/16 or .063 inches. Since we know the needed linear speed which is 1-50mm/min I can using the rotational speed formula to solve for the min and max rotational speed.  
+
+![Leadscrew](leadscrew-54.jpg)
+ 
+ 
 ![Leadscrew](leadscrew-55.jpg)  
 ![Leadscrew](leadscrew-56.jpg)  
 
