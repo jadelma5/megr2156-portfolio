@@ -41,8 +41,8 @@ Calculations and assumptions for designing our crosshead suitable for leadscrews
 ![Crosshead](crosshead3.jpg)   
 
 ### Assembly: (Jackson Rice)  
-![Assembly](assembly1.jpg)  
-![Assembly](assembly2.jpg)  
+![Assembly](assmebly1.jpg)  
+![Assembly](assmebly2.jpg)  
 ![Assembly](assembly3.jpg)  
 ![Assembly](assembly4.jpg)  
 ![Assembly](assembly5.jpg)  
