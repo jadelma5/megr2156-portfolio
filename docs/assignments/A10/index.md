@@ -15,6 +15,16 @@ Constrains:
 - Safety Factor: 4  
 
 ## Analyze  
+
+### Lead Screw Selection (Justin Adelman)
+
+The first part of this assignment was to select the correct lead screw by solving for its minimum diameter, range of rotational speed, and the max torque provided. I started with determining the minimum diameter needed and by listing out all of the knowns and unknows. We know the load put on the whole system, the min length of the screw, the safety factor, the speed range, and I assumed the material strength based off of low carbon steel. This showed me that the only unknown is the min diameter. Using the stress equation I was able to solve for area and in return solve for the needed diameter which is shown below. 
+
+![Leadscrew](leadscrew-53.jpg)
+
+After solving and plugging the numbers in I got a minimum diameter of 4.51 mm or about .1776 so any 1/4(.250) inch lead screw would be sufficient for this design.  
+
+The next thing to solve for was the rage of rotational speed based off of the needed corehaead speed and the picth og the lead screw.
 ![Leadscrew](leadscrew-53.jpg)  
 ![Leadscrew](leadscrew-54.jpg)  
 ![Leadscrew](leadscrew-55.jpg)  
