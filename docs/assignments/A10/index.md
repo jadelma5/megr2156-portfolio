@@ -62,6 +62,8 @@ Calculations and assumptions for designing our crosshead suitable for leadscrews
 ![Assembly](assembly12.jpg)  
 
 ### Tabulation:  (Justin Hatcher)  
+![table](Tabulation.png)
+
 <a href="https://docs.google.com/spreadsheets/d/1-IyFBrPSqRsUC8X71TDrjAil2_3B7H-Nr4CGZBN8Lyw/edit?usp=sharing" target="Tabulation Link">A10 Tabulation Link</a> 
 
 ## Decide
