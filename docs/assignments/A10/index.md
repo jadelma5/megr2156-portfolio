@@ -37,7 +37,7 @@ After plugging in my number i got the max torque to be .6786 N-m per screw as th
 
 [Lead Screw Link](https://www.mcmaster.com/99030A981/)
 
-### Nut and Flange Selection 
+### Nut and Flange Selection (Justin Adelman)
 
 Now that I had selected the lead screw I had to select the complimentary nut and flange for this design. I also had to make sure that the internal threads of the nut could support the load of the screw by using the thread bending stress  analysis. I know that the nut should bronze and it has to match the pitch of the lead screw so it also must be 1/16 as well. I am assuming the length of the nut to be 5/8 inch since that is the most common size. Based off the length and pitch i was able to calculate how many thread are touching/ are active during the load which is 10. from there i can plug the numbers into the stress bending equation shown below.       
 
