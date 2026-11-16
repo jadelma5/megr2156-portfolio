@@ -47,7 +47,7 @@ Calculations and assumptions for designing our crosshead suitable for leadscrews
 After extruding the parameters of the cross section of the cross head, I was able to mark the distance between the leadscrews with a circle that resembles the base of the flanges.  
 ![Crosshead](crosshead2.jpg)  
 Inserting the circular pattern for the bolt holes on the flange according to the base of the flange. 
-![Crosshead](crosshead3.jpg)   
+![Crosshead](crosshead3.jpg)  
 Final view from above of the crosshead to see that bolt inserts for flange are visible and leadscrew hole goes all the way through the part.  
 ![Crosshead](parametric.jpg)  
 
