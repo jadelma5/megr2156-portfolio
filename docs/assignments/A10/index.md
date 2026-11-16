@@ -27,9 +27,16 @@ After solving and plugging the numbers in I got a minimum diameter of 4.51 mm or
 The next thing to solve for was the rage of rotational speed based off of the needed crosshead speed and the pitch of the lead screw. From my min diameter calcualtion i assumed a pitch of 1/16 or .063 inches. Since we know the needed linear speed which is 1-50mm/min I can using the rotational speed formula to solve for the min and max rotational speed.  
 
 ![Leadscrew](leadscrew-54.jpg)
+
+The last thing i need before I select the lead screw is to calculate the max torque to provide the 2KN tension to test the sample. I listed out all of my knowns and unknowns and saw I already have everything i need and just need to solve for the torque with the equation given to us shown below. 
  
- 
-![Leadscrew](leadscrew-55.jpg)  
+![Leadscrew](leadscrew-55.jpg) 
+
+After plugging in my number i got the max torque to be .6786 N-m per screw as the load an torque is distributed between the two screws. From all of my calculations for the diameter, the rotational speed range, and the max torque i selected the 1018 Carbon Steel Precision Acme Lead Screw, Right Hand, 1/4"-16 Thread Size, 18" Long as it matched all the requirements and calculated parameters best. 
+
+[Lead Screw Link](https://www.mcmaster.com/99030A981/)
+
+
 ![Leadscrew](leadscrew-56.jpg)  
 
 ### Designing the Crosshead (Justin Hatcher)  
