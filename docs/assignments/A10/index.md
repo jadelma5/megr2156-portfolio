@@ -89,10 +89,7 @@ Now was time for the full assembly. This was just the crosshead assembly and the
 ### Tabulation  (Justin Hatcher)  
 ![table](Tabulation.png)
 
-<a href="https://docs.google.com/spreadsheets/d/1-IyFBrPSqRsUC8X71TDrjAil2_3B7H-Nr4CGZBN8Lyw/edit?usp=sharing" target="Tabulation Link">A10 Tabulation Link</a> 
-
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+<a href="https://docs.google.com/spreadsheets/d/1-IyFBrPSqRsUC8X71TDrjAil2_3B7H-Nr4CGZBN8Lyw/edit?usp=sharing" target="Tabulation Link">A10 Tabulation Link</a>  
 
 ## Lessons Learned 
 Jackson Rice: In this project I learned a lot. The thing that I found most useful however was the assembly. Assembly was a big part of this assignment and, admittedly, I had some trouble at the start. As I ran into problems and found solutions I learned a lot about mating, orientation, and other things. This will prove very useful in future projects.  
