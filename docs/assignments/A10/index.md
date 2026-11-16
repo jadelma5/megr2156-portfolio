@@ -41,7 +41,7 @@ After plugging in my number i got the max torque to be .6786 N-m per screw as th
 
 ### Designing the Crosshead (Justin Hatcher)  
 ![Crosshead](crosshead4.jpg)  
-Calculations and assumptions for designing our crosshead suitable for leadscrews and frame of our machine.  
+Calculations and assumptions for designing our crosshead suitable for leadscrews and frame of our machine. Analyzing the minimum strength required for the load and the maximum deflection of .1mm. We were able to determine the size and material needed to successfully complete the goal of this assignment. Using the web, we found an appropriate length of the crosshead using the nut flange width to find the minimum base size to allow there to be enough surface mating area between the two parts.  
 
 ![Crosshead](crosshead1.jpg)  
 ![Crosshead](crosshead2.jpg)  
