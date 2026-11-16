@@ -64,6 +64,7 @@ Final view from above of the crosshead to see that bolt inserts for flange are v
 ![Crosshead](parametric.jpg)  
 
 ### Assembly: (Jackson Rice)  
+Now that everything was designed we just had to assemble it. First was the crosshead assembly. This consisted of two leadscrews, the crosshead itself, two flanges, and two nuts.  
 ![Assembly](assmebly1.jpg)  
 ![Assembly](assmebly2.jpg)  
 ![Assembly](assembly3.jpg)  
@@ -72,6 +73,7 @@ Final view from above of the crosshead to see that bolt inserts for flange are v
 ![Assembly](assembly6.jpg)  
 ![Assembly](assmebly7.jpg)  
 ![Assembly](assembly8.jpg)  
+Now was time for the full assembly. This was just the crosshead assembly and the frame. The frame had to be assembled part by part which proved more difficult than I first thought. I had to find the right size and at first the smallest size was 1 meter, which was way too big. I eventually found the right sizes and assembled the frame.  
 ![Assembly](assembly9.jpg)  
 ![Assembly](assembly10.jpg)  
 ![Assembly](assembly11.jpg)  
