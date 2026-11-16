@@ -62,6 +62,7 @@ Inserting the circular pattern for the bolt holes on the flange according to the
 ![Crosshead](crosshead3.jpg)  
 Final view from above of the crosshead to see that bolt inserts for flange are visible and leadscrew hole goes all the way through the part.  
 ![Crosshead](parametric.jpg)  
+And lastly, parametric design of the crosshead given the important parameters needed.  
 
 ### Assembly: (Jackson Rice)  
 Now that everything was designed we just had to assemble it. First was the crosshead assembly. This consisted of two leadscrews, the crosshead itself, two flanges, and two nuts.  
