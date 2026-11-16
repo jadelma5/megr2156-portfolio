@@ -89,5 +89,10 @@ Now was time for the full assembly. This was just the crosshead assembly and the
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
-## Communicate
+## Lessons Learned 
+Jackson Rice: In this project I learned a lot. The thing that I found most useful however was the assembly. Assembly was a big part of this assignment and, admittedly, I had some trouble at the start. As I ran into problems and found solutions I learned a lot about mating, orientation, and other things. This will prove very useful in future projects.
+
+Time Taken: 5 hours(Jackson)
+            5 hours(Justin H.)
+
 ### CAD Links:  
