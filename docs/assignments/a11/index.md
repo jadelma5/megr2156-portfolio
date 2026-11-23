@@ -38,7 +38,16 @@ The reason i selected this motor is because first it is a steeper motor which al
 
 The nest thing to do was to design a coupler that would connect the lead screw to the motor shaft. I first started out by listing all my knowns. I knew the inetrnal diamater of the coupler must be 10 mm as that is the shaft size of the motor, the material of the coupler will be steel so its yeild strength is 250 MPA, and lastlty i know the torque applied to the coupler will be .6785 N-m. From these i know i need to solve for the outer diamatter/ size fo the coupler so it can withstand the torque applied. 
 
-From my calcualtions I see that i need an outer dimater of at least 10.13 mm but i decided to round up to 10.5 mm to be eaiser to acutlly manufacter and to have a built in extra saftey factor
+From my calculations I see that i need an outer diameter of at least 10.13 mm but i decided to round up to 10.5 mm to be easier to actually manufacture and to have a built in extra safety factor  
+
+### Mounted Bearing w/ RC3 Class fit  
+Justification of each size and location dimension on mount: The bearing bracket sits parallel to the frame of the tensile tester. It will screw into the bottom of the frame using a #9 drill. With the bearing mounts being small, this gives us space to put two with enough distance between them on the frame.  
+
+Noting functional tolerances: RC3 fit for the bearing inner diameter allowing for a slip fit for the lead screw.
+#8 screws for the mounting holes, because the diameters allow for little clearance between the chamfer the hole and the head of the screw.  
+
+[Link to Mounted Bearing](https://www.mcmaster.com/4575N33/?utm_term=mounted+sleeve+bearings&matchtype=e&campaignid=22711799005&adgroupid=180671261479&location=9009981&gad_source=1&gad_campaignid=22711799005&gbraid=0AAAAACLR9bxAAeR6trfCg2NwrnhPP943C&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7cv5DuWSrVLJgJ4cEetm9r8teNK4lYjQCNme6oHTpvSKDxixhAoPXBoCp3wQAvD_BwE)  
+
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
