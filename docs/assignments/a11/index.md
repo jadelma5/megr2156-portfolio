@@ -64,6 +64,10 @@ I had to verify that the top of the frame would provide enough strength necessar
 ![FEA](coarsedisplace.png)
 ![FEA](coarseSF.png)
 
+From these simulations i calculated a convergence check on the two to verify the results. I got a difference of 7% for the saftey factor, .3% for the displacement, and 7% for the stresses and since all are 7% or under they converge and the results are verified.
+
+Optimization: Looking at the FEA I see that the max stress and bending is where the load from the lead screw connects to the frame. Based from this I would put put square piece of material the size of the frame around these holes made of steel which would be much stronger then the aluminum frame and these square pieces would strengthen and limit the bending of the frame. 
+
 
 
 
