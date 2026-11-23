@@ -52,6 +52,8 @@ From my calculations I see that i need an outer diameter of at least 10.13 mm bu
 
 ### Frame Connectors  
 ![Math](IMG_0311.jpeg)  
+To select the frame connector, I used my McMasterCarr resources to determine the best fit for our T-Slotted Framing. I determined the 1in x 1in. would be enough surface area to help support the 2000N load, weight and twist of the motors onto the frame. With help of the motor mount, this twist should be significantly reduced.  
+
 [Link to Connector](https://www.mcmaster.com/47065T236/?utm_term=mounted+sleeve+bearings&matchtype=e&campaignid=22711799005&adgroupid=180671261479&location=9009981&gad_source=1&gad_campaignid=22711799005&gbraid=0AAAAACLR9bxAAeR6trfCg2NwrnhPP943C&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7cv5DuWSrVLJgJ4cEetm9r8teNK4lYjQCNme6oHTpvSKDxixhAoPXBoCp3wQAvD_BwE)  
 
 ### Top Frame FEA
