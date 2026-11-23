@@ -94,4 +94,5 @@ Hourly cost for team members was $35 / Hour (median entry-level engineering desi
 ## Lessons Learned
 
 Justin Adelman: This assignment taught me how to solve for the thickness needed for a coupler based on the torque being applied and the material of the coupler itself. This assignment also helped me to feel more confident and fluent with running FEA's and interpreting the results to help with verification of the loads and optimization for the design.  
+
 Justin Hatcher: One particular lesson I learned during this assignment was how to use AI, McMasterCarr, and torque curve more effectively to search for the information I wanted. This significantly streamlined the process compared to A10, and with the additional research from that previous assignment. I was about to work, quicker, and faster compared to the previous weeks.  
