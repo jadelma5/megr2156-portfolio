@@ -80,6 +80,7 @@ Optimization: Looking at the FEA I see that the max stress and bending is where 
 ### Side Frame FEA  
 For the FEA on the vertical components I did two studies, one with medium mesh and the other with fine mesh. This was showing compression of the beams. The max deflection I got was 0.0028 inches which is great and the max stress was 1.463 ksi which is far below the yield strength of 31 ksi. The factor of safety was 21 which is very high because the yield strength of our material was far beyond the max stress is experienced.  
 [Link to CAD](SideFrameFEA.zip)  
+
 ![FEAsideframe](FEAsideframe.png)  
 
 ### Mounted Bearing w/ RC3 Class fit  
@@ -104,4 +105,7 @@ Justin Hatcher: One particular lesson I learned during this assignment was how t
 
 Jackson Rice: One lesson I learned is how important the FEAs are. An FEA essentially allows you to "break" the material without physically breaking it. It can show you flaws in your design and what needs to change. This will be extremely helpful even with personal projects in the future.
 
-Time taken: 7 hours(Jackson Rice)
+Time taken: 7 hours(Jackson Rice)  
+
+### Link to CAD  
+[Link to zip](SideFrameFEA.zip)  
