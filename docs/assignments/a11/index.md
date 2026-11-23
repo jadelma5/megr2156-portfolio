@@ -48,7 +48,9 @@ The nest thing to do was to design a coupler that would connect the lead screw t
 
 From my calculations I see that i need an outer diameter of at least 10.13 mm but i decided to round up to 10.5 mm to be easier to actually manufacture and to have a built in extra safety factor. and here is the dsign for the motor  
 
-![coupler](coupler.jpg)
+![coupler](coupler.jpg)  
+
+### Frame Connectors
 
 ### Top Frame FEA
 
