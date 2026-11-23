@@ -34,6 +34,11 @@ The reason i selected this motor is because first it is a steeper motor which al
 
 ![graph](Torquegraph.png)
 
+### Coupler Design
+
+The nest thing to do was to design a coupler that would connect the lead screw to the motor shaft. I first started out by listing all my knowns. I knew the inetrnal diamater of the coupler must be 10 mm as that is the shaft size of the motor, the material of the coupler will be steel so its yeild strength is 250 MPA, and lastlty i know the torque applied to the coupler will be .6785 N-m. From these i know i need to solve for the outer diamatter/ size fo the coupler so it can withstand the torque applied. 
+
+From my calcualtions I see that i need an outer dimater of at least 10.13 mm but i decided to round up to 10.5 mm to be eaiser to acutlly manufacter and to have a built in extra saftey factor
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
