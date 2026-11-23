@@ -68,10 +68,7 @@ From these simulations i calculated a convergence check on the two to verify the
 
 Optimization: Looking at the FEA I see that the max stress and bending is where the load from the lead screw connects to the frame. Based from this I would put put square piece of material the size of the frame around these holes made of steel which would be much stronger then the aluminum frame and these square pieces would strengthen and limit the bending of the frame. 
 
-[Link to FEA study]
-
-
-
+[Link to FEA study](Topframestudy.SLDPRT)
 
 
 ### Mounted Bearing w/ RC3 Class fit  
