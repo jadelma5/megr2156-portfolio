@@ -90,8 +90,5 @@ Hourly cost for team members was $35 / Hour (median entry-level engineering desi
 [Link to Bill of Materials and Labor Cost](https://docs.google.com/spreadsheets/d/15JimiBi4IxkgIMTaRMZI8nueYGNDZvNTg6ABmjvZoxY/edit?usp=sharing)  
 ![tab_pic](tabulation.jpg)  
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
 ## Communicate  
 Lessons Learned: 
