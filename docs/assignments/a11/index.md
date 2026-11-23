@@ -85,8 +85,8 @@ Noting functional tolerances: RC3 fit for the bearing inner diameter allowing fo
 
 ### Bill of Materials and Labor Cost  
 Hourly cost for team members was $35 / Hour (median entry-level engineering designer pay)  
-[Link to Bill of Materials and Labor Cost](https://docs.google.com/spreadsheets/d/15JimiBi4IxkgIMTaRMZI8nueYGNDZvNTg6ABmjvZoxY/edit?usp=sharing)
-
+[Link to Bill of Materials and Labor Cost](https://docs.google.com/spreadsheets/d/15JimiBi4IxkgIMTaRMZI8nueYGNDZvNTg6ABmjvZoxY/edit?usp=sharing)  
+![tab_pic](tabulation.jpg)  
 
 ## Decide
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
