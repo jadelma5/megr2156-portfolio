@@ -44,6 +44,16 @@ From my calculations I see that i need an outer diameter of at least 10.13 mm bu
 
 ![coupler](coupler.jpg)
 
+### Top Frame FEA
+
+
+
+
+
+
+
+
+
 ### Mounted Bearing w/ RC3 Class fit  
 Justification of each size and location dimension on mount: The bearing bracket sits parallel to the frame of the tensile tester. It will screw into the bottom of the frame using a #9 drill. With the bearing mounts being small, this gives us space to put two with enough distance between them on the frame.  
 
