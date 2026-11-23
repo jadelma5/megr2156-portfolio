@@ -90,5 +90,7 @@ Hourly cost for team members was $35 / Hour (median entry-level engineering desi
 [Link to Bill of Materials and Labor Cost](https://docs.google.com/spreadsheets/d/15JimiBi4IxkgIMTaRMZI8nueYGNDZvNTg6ABmjvZoxY/edit?usp=sharing)  
 ![tab_pic](tabulation.jpg)  
 
-## Communicate  
-Lessons Learned: 
+
+## Lessons Learned
+
+Justin Adelman: This assignment taught me how to solve for the thickness needed for a coupler based on the torque being applied and the material of the coupler itself. This assignment also helped me to feel more confident and fluent with running FEA's and interpreting the results to help with verification of the loads and optimization for the design.
