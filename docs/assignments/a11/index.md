@@ -22,7 +22,7 @@ Outline:
 9): Lessons learned   
 
 ## Analyze
-### Motor Selection
+### Motor Selection (Justin Adelman)  
 
 From the last assignment i learned that with my 1/4 inch lead screw the required toque for each motor would be .6786 N-m and the rotational speed range for this torque is .63 - 31.5 RPM. Based off of this i reachred a;l type of motors and landed on the Nema 23 Bipolar 3Nm(425oz.in) 3.5A 57x57x113mm 4 Wires CNC Stepper Motor. 
 
@@ -34,14 +34,14 @@ The reason i selected this motor is because first it is a steeper motor which al
 
 ![graph](Torquegraph.png)
 
-### Motor Mount  
+### Motor Mount (Jackson Rice)  
 In order to design the motor mount I had to find the thickness the material needed to be. First I selected the material to be 1100 aluminum because it was cheap and the yield strength was more than enough for what I needed. Next I designed it with the dimensions of the actual motor in mind. I mad a casing just big enough for the motor to slide into the holes aligned properly so it could be screwed in. I then calculated the thickness based on two things: the deflection and normal stress. The deflection formula I had to look up to find, then I rearranged it to solve for thickness assuming a max deflection of one millimeter. I also calculated the normal stress using the yield strength of my material. Both used a safety factor of 2. The thickness for max deflection was far greater and was 3.8mm so I designed it with a thickness of 4mm.  
 ![motormount](motormountmath1.jpg)  
 ![motormount](motormountmath2.jpg)  
 ![motormount](motormountmath3.jpg)  
 ![cadmotormount](CADmotormount.jpg)  
 
-### Coupler Design
+### Coupler Design (Justin Adelman)  
 
 The nest thing to do was to design a coupler that would connect the lead screw to the motor shaft. I first started out by listing all my knowns. I knew the internal diameter of the coupler must be 10 mm as that is the shaft size of the motor, the material of the coupler will be steel so its yield strength is 250 MPA, and lastly i know the torque applied to the coupler will be .6785 N-m. From these i know i need to solve for the outer diameter/ size of the coupler so it can withstand the torque applied.  
 
@@ -51,13 +51,13 @@ From my calculations I see that i need an outer diameter of at least 10.13 mm bu
 
 ![coupler](coupler.jpg)  
 
-### Frame Connectors  
+### Frame Connectors (Justin Hatcher)  
 ![Math](IMG_0311.jpeg)  
 To select the frame connector, I used my McMasterCarr resources to determine the best fit for our T-Slotted Framing. I determined the 1in x 1in. would be enough surface area to help support the 2000N load, weight and twist of the motors onto the frame. With help of the motor mount, this twist should be significantly reduced.  
 
 [Link to Connector](https://www.mcmaster.com/47065T236/?utm_term=mounted+sleeve+bearings&matchtype=e&campaignid=22711799005&adgroupid=180671261479&location=9009981&gad_source=1&gad_campaignid=22711799005&gbraid=0AAAAACLR9bxAAeR6trfCg2NwrnhPP943C&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7cv5DuWSrVLJgJ4cEetm9r8teNK4lYjQCNme6oHTpvSKDxixhAoPXBoCp3wQAvD_BwE)  
 
-### Top Frame FEA
+### Top Frame FEA (Justin Adelman)
 
 I had to verify that the top of the frame would provide enough strength necessary to withstand the loads of the lead screws and the torque applied by the motors. I took just top frame in CAD and then conducted a FEA simulation where both ends are fixed in place and there are 1kN loads on the frame where the lead screw would be. I also ran two simulations one with a fine mesh and one with a coarser mesh and here they are below. 
 
@@ -77,13 +77,13 @@ Optimization: Looking at the FEA I see that the max stress and bending is where 
 
 [Link to FEA study](Topframestudy.SLDPRT)
 
-### Side Frame FEA  
+### Side Frame FEA (Jackson Rice)  
 For the FEA on the vertical components I did two studies, one with medium mesh and the other with fine mesh. This was showing compression of the beams. The max deflection I got was 0.0028 inches which is great and the max stress was 1.463 ksi which is far below the yield strength of 31 ksi. The factor of safety was 21 which is very high because the yield strength of our material was far beyond the max stress is experienced.  
 [Link to CAD](SideFrameFEA.zip)  
 
 ![FEAsideframe](FEAsideframe.png)  
 
-### Mounted Bearing w/ RC3 Class fit  
+### Mounted Bearing w/ RC3 Class fit (Justin Hatcher)  
 Justification of each size and location dimension on mount: The bearing bracket sits parallel to the frame of the tensile tester. It will screw into the bottom of the frame using a #9 drill. With the bearing mounts being small, this gives us space to put two with enough distance between them on the frame.  
 
 Noting functional tolerances: RC3 fit for the bearing inner diameter allowing for a slip fit for the lead screw.
@@ -91,7 +91,7 @@ Noting functional tolerances: RC3 fit for the bearing inner diameter allowing fo
 
 [Link to Mounted Bearing](https://www.mcmaster.com/4575N33/?utm_term=mounted+sleeve+bearings&matchtype=e&campaignid=22711799005&adgroupid=180671261479&location=9009981&gad_source=1&gad_campaignid=22711799005&gbraid=0AAAAACLR9bxAAeR6trfCg2NwrnhPP943C&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7cv5DuWSrVLJgJ4cEetm9r8teNK4lYjQCNme6oHTpvSKDxixhAoPXBoCp3wQAvD_BwE)  
 
-### Bill of Materials and Labor Cost  
+### Bill of Materials and Labor Cost (Justin Hatcher)  
 Hourly cost for team members was $35 / Hour (median entry-level engineering designer pay)  
 [Link to Bill of Materials and Labor Cost](https://docs.google.com/spreadsheets/d/15JimiBi4IxkgIMTaRMZI8nueYGNDZvNTg6ABmjvZoxY/edit?usp=sharing)  
 ![tab_pic](tabulation.jpg)  
@@ -99,11 +99,11 @@ Hourly cost for team members was $35 / Hour (median entry-level engineering desi
 
 ## Lessons Learned
 
-Justin Adelman: This assignment taught me how to solve for the thickness needed for a coupler based on the torque being applied and the material of the coupler itself. This assignment also helped me to feel more confident and fluent with running FEA's and interpreting the results to help with verification of the loads and optimization for the design.  
+Justin Adelman: This assignment taught me how to solve for the thickness needed for a coupler based on the torque being applied and the material of the coupler itself. This assignment also helped me to feel more confident and fluent with running FEA's and interpreting the results to help with verification of the loads and optimization for the design. I worked about 8 hours on this assignment.  
 
-Justin Hatcher: One particular lesson I learned during this assignment was how to use AI, McMasterCarr, and torque curve more effectively to search for the information I wanted. This significantly streamlined the process compared to A10, and with the additional research from that previous assignment. I was about to work, quicker, and faster compared to the previous weeks.  
+Justin Hatcher: One particular lesson I learned during this assignment was how to use AI, McMasterCarr, and torque curve more effectively to search for the information I wanted. This significantly streamlined the process compared to A10, and with the additional research from that previous assignment. I was about to work, quicker, and faster compared to the previous weeks. I worked about 6 hours on this assignment over the course of this week.  
 
-Jackson Rice: One lesson I learned is how important the FEAs are. An FEA essentially allows you to "break" the material without physically breaking it. It can show you flaws in your design and what needs to change. This will be extremely helpful even with personal projects in the future.
+Jackson Rice: One lesson I learned is how important the FEAs are. An FEA essentially allows you to "break" the material without physically breaking it. It can show you flaws in your design and what needs to change. This will be extremely helpful even with personal projects in the future.  
 
 Time taken: 7 hours(Jackson Rice)  
 
