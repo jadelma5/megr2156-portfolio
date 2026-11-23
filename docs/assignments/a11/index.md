@@ -46,7 +46,17 @@ From my calculations I see that i need an outer diameter of at least 10.13 mm bu
 
 ### Top Frame FEA
 
+I had to verify that the top of the frame would provide enough strength necessary to withstand the loads of the lead screws and the torque applied by the motors. I took just top frame in CAD and then conducted a FEA simulation where both ends are fixed in place and there are 1kN loads on the frame where the lead screw would be. I also ran two simulations one with a fine mesh and one with a coarser mesh and here they are below. 
 
+![FEA](frame.png)
+![FEA](finedetails.png)
+![FEA](finestress.png)
+![FEA](finedisplace.png)
+![FEA](fineSF.png)
+![FEA](coarsedetails.png)
+![FEA](coarsestress.png)
+![FEA](coarsedisplace.png)
+![FEA](coarseSF.png)
 
 
 
