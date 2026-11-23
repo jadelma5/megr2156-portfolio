@@ -76,6 +76,8 @@ Optimization: Looking at the FEA I see that the max stress and bending is where 
 
 [Link to FEA study](Topframestudy.SLDPRT)
 
+### Side Frame FEA  
+For the FEA on the vertical components I did two studies, one with medium mesh and the other with fine mesh. This was showing compression of the beams. The max deflection I got was 0.0028 inches which is great and the max stress was 1.463 ksi which is far below the yield strength of 31 ksi. The factor of safety was 21 which is very high because the yield strength of our material was far beyond the max stress is experienced.
 
 ### Mounted Bearing w/ RC3 Class fit  
 Justification of each size and location dimension on mount: The bearing bracket sits parallel to the frame of the tensile tester. It will screw into the bottom of the frame using a #9 drill. With the bearing mounts being small, this gives us space to put two with enough distance between them on the frame.  
@@ -96,3 +98,7 @@ Hourly cost for team members was $35 / Hour (median entry-level engineering desi
 Justin Adelman: This assignment taught me how to solve for the thickness needed for a coupler based on the torque being applied and the material of the coupler itself. This assignment also helped me to feel more confident and fluent with running FEA's and interpreting the results to help with verification of the loads and optimization for the design.  
 
 Justin Hatcher: One particular lesson I learned during this assignment was how to use AI, McMasterCarr, and torque curve more effectively to search for the information I wanted. This significantly streamlined the process compared to A10, and with the additional research from that previous assignment. I was about to work, quicker, and faster compared to the previous weeks.  
+
+Jackson Rice: One lesson I learned is how important the FEAs are. An FEA essentially allows you to "break" the material without physically breaking it. It can show you flaws in your design and what needs to change. This will be extremely helpful even with personal projects in the future.
+
+Time taken: 7 hours(Jackson Rice)
