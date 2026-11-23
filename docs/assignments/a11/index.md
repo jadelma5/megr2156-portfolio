@@ -23,6 +23,11 @@ Outline:
 
 ## Analyze
 ### Motor Selection
+![motormount](motormountmath1.jpg)  
+![motormount](motormountmath2.jpg)  
+![motormount](motormountmath3.jpg)  
+![cadmotormount](CADmotormount.jpg)  
+
 
 From the last assignment i learned that with my 1/4 inch lead screw the required toque for each motor would be .6786 N-m and the rotational speed range for this torque is .63 - 31.5 RPM. Based off of this i reachred a;l type of motors and landed on the Nema 23 Bipolar 3Nm(425oz.in) 3.5A 57x57x113mm 4 Wires CNC Stepper Motor. 
 
