@@ -57,7 +57,7 @@ I had to verify that the top of the frame would provide enough strength necessar
 ![FEA](frame.png)
 ![FEA](finedetails.png)
 ![FEA](finestress.png)
-![FEA](finedisplace.png)
+![FEA](finedisplacement.png)
 ![FEA](fineSF.png)
 ![FEA](coarsedetails.png)
 ![FEA](coarsestress.png)
