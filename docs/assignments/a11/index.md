@@ -105,7 +105,7 @@ Justin Hatcher: One particular lesson I learned during this assignment was how t
 
 Jackson Rice: One lesson I learned is how important the FEAs are. An FEA essentially allows you to "break" the material without physically breaking it. It can show you flaws in your design and what needs to change. This will be extremely helpful even with personal projects in the future.  
 
-Time taken: 7 hours(Jackson Rice)  
+Time taken: 3 hours(Jackson Rice)  
 
 ### Link to CAD  
 [Link to zip](SideFrameFEA.zip)  
